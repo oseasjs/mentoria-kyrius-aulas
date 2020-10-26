@@ -34,7 +34,7 @@ ReactDOM.render(
     <Switch>
       <Route path="/admin" render={props => <AdminLayout {...props} />} />
       <Route path="/rtl" render={props => <RTLLayout {...props} />} />
-      <Redirect from="/" to="/admin/beginnig" />
+      <Redirect from="/" to="/admin/environment" />
     </Switch>
   </Router>,
   document.getElementById("root")

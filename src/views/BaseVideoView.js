@@ -25,8 +25,17 @@ class BaseVideoView extends React.Component {
 
   getJsonVideos = async () => {
     
+    console.log('### getJsonVideos');
+    
     const jsonFileName = this.props.location.pathname.split('/admin/')[1];
-    const url = '../jsons/' + jsonFileName + '.json';
+
+    // const url = window.location.href.replace(this.props.location.pathname, '/public/jsons/' + jsonFileName + '.json');
+    // const url = 'https://github.com/oseasjs/mentoria-kyrius-aulas/tree/master/public/jsons/' + jsonFileName + '.json';
+    
+    // const url = '../jsons/' + jsonFileName + '.json';
+
+    const url = '/jsons/' + jsonFileName + '.json';
+    console.log(url);
 
     await axios.get(url)
       .then( response => { 

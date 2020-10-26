@@ -115,7 +115,7 @@ class Admin extends React.Component {
             routes={routes}
             bgColor={this.state.backgroundColor}
             logo={{
-              outterLink: "https://oseasjs.github.io/kyrius",
+              outterLink: "https://oseasjs.github.io/mentoria-kyrius-aulas",
               text: "Kyrius",
               imgSrc: logo
             }}
@@ -134,7 +134,7 @@ class Admin extends React.Component {
             />
             <Switch>
               {this.getRoutes(routes)}
-              <Redirect from="*" to="/admin/dashboard"/>
+              <Redirect from="*" to="/admin/environment"/>
             </Switch>
             {// we don't want the Footer to be rendered on map page
             this.props.location.pathname.indexOf("maps") !== -1 ? null : (
