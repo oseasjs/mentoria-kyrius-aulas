@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ba65127b30310c70a706bdb3203fdfbe",
+    "revision": "d334fe132f55494bd3ac8738a0bdd7a6",
     "url": "/mentoria-kyrius-aulas/index.html"
   },
   {
-    "revision": "1cfc72cc480816bfd477",
+    "revision": "0e284d8bfbed5cd7522c",
     "url": "/mentoria-kyrius-aulas/static/css/main.343d3ae1.chunk.css"
   },
   {
@@ -16,12 +16,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mentoria-kyrius-aulas/static/js/2.8a867b59.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1cfc72cc480816bfd477",
-    "url": "/mentoria-kyrius-aulas/static/js/main.1656a158.chunk.js"
+    "revision": "0e284d8bfbed5cd7522c",
+    "url": "/mentoria-kyrius-aulas/static/js/main.07699207.chunk.js"
   },
   {
     "revision": "dc192b57bfed2afd6be1ea5558f17255",
-    "url": "/mentoria-kyrius-aulas/static/js/main.1656a158.chunk.js.LICENSE.txt"
+    "url": "/mentoria-kyrius-aulas/static/js/main.07699207.chunk.js.LICENSE.txt"
   },
   {
     "revision": "4ee6742ff18b63260df0",
