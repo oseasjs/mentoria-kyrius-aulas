@@ -1,0 +1,58 @@
+
+[
+  {
+    "type":"video",
+    "videoId": "XfvQWnRgxG0",
+    "title": "Metodologia Scrum",
+    "avatarUrl": "https://yt3.ggpht.com/a/AATXAJyN2aThkmRt436aPlBkb3JUMQDwMcJm36E_JkxD=s68-c-k-c0x00ffffff-no-rj",
+    "channelName": "MindMaster",
+    "channelUrl": "https://www.youtube.com/channel/UCGcJKtRkeWAbForW4UXmLtg",
+    "descriptionCheckList": [
+      {"description": "TODO"}
+     ]
+  }
+  ,{
+    "type":"video",
+    "videoId": "cHZF6L7aNfk",
+    "title": "Criando uma primeira aplicação Java usando Spring Boot",
+    "avatarUrl": "https://yt3.ggpht.com/a/AATXAJyhg-2_7Bp4g0w7deB85gWxzX72YJdd0WjSU7Ve3Q=s68-c-k-c0x00ffffff-no-rj",
+    "channelName": "Amigoscode",
+    "channelUrl": "https://www.youtube.com/channel/UC2KfmYEM4KCuA1ZurravgYw",
+    "descriptionCheckList": [
+      {"description": "TODO"}
+     ]
+  }  
+  ,{
+    "type":"video",
+    "videoId": "spk0TBoKEpo",
+    "title": "Subindo o código fonte para o GitHub",
+    "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzRMp3uMEDRSQizjnD3FtXjg-9jF5VcyoyZhIeu-A=s68-c-k-c0x00ffffff-no-rj",
+    "channelName": "Moisés Abraão",
+    "channelUrl": "https://www.youtube.com/channel/UCHwST4CdPmR8Xq6CDFgjzOw",
+    "descriptionCheckList": [
+      {"description": "TODO"}
+     ]
+  }
+  ,{
+    "type":"video",
+    "videoId": "3GBNLCWw78o",
+    "title": "Um dia na vida de um desenvolvedor em San Francisco",
+    "avatarUrl": "https://yt3.ggpht.com/a/AATXAJyfBl6LQpRD8LfSretsdeINFvfF3ZedcS244eRE8g=s68-c-k-c0x00ffffff-no-rj",
+    "channelName": "Edward Sa",
+    "channelUrl": "https://www.youtube.com/channel/UCCUw_xsps3VgtqLYR8vBSXw",
+    "descriptionCheckList": [
+      {"description": "TODO"}
+     ]
+  }
+  ,{
+    "type":"text",
+    "videoId": "3GBNLCWw78o",
+    "title": "Um dia na vida de um desenvolvedor em San Francisco",
+    "avatarUrl": "https://yt3.ggpht.com/a/AATXAJyfBl6LQpRD8LfSretsdeINFvfF3ZedcS244eRE8g=s68-c-k-c0x00ffffff-no-rj",
+    "channelName": "Edward Sa",
+    "channelUrl": "https://www.youtube.com/channel/UCCUw_xsps3VgtqLYR8vBSXw",
+    "descriptionCheckList": [
+      {"description": "TODO"}
+     ]
+  }
+]
