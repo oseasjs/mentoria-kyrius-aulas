@@ -15,7 +15,7 @@
 * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 */
-import PageVideoView from "views/PageVideoView.js";
+import CommonPageView from "views/CommonPageView.js";
 
 var routes = [
   {
@@ -23,7 +23,7 @@ var routes = [
     name: "Ambiente",
     rtlName: "",
     icon: "tim-icons icon-laptop",
-    component: PageVideoView,
+    component: CommonPageView,
     layout: "/mentoria-kyrius-aulas/admin"
   },
   {
@@ -31,7 +31,7 @@ var routes = [
     name: "Primeiros Passos",
     rtlName: "",
     icon: "tim-icons icon-satisfied",
-    component: PageVideoView,
+    component: CommonPageView,
     layout: "/mentoria-kyrius-aulas/admin"
   },
   {
@@ -39,7 +39,7 @@ var routes = [
     name: "Básico",
     rtlName: "",
     icon: "tim-icons icon-send",
-    component: PageVideoView,
+    component: CommonPageView,
     layout: "/mentoria-kyrius-aulas/admin"
   },
   {
@@ -47,7 +47,7 @@ var routes = [
     name: "Linguagem Java",
     rtlName: "",
     icon: "tim-icons icon-key-25",
-    component: PageVideoView,
+    component: CommonPageView,
     layout: "/mentoria-kyrius-aulas/admin"
   },
   {
@@ -55,7 +55,7 @@ var routes = [
     name: "Intermediário",
     rtlName: "",
     icon: "tim-icons icon-components",
-    component: PageVideoView,
+    component: CommonPageView,
     layout: "/mentoria-kyrius-aulas/admin"
   },
   {
@@ -63,7 +63,7 @@ var routes = [
     name: "Avançado",
     rtlName: "",
     icon: "tim-icons icon-spaceship",
-    component: PageVideoView,
+    component: CommonPageView,
     layout: "/mentoria-kyrius-aulas/admin"
   },
   {
@@ -71,7 +71,7 @@ var routes = [
     name: "Carreira",
     rtlName: "",
     icon: "tim-icons icon-trophy",
-    component: PageVideoView,
+    component: CommonPageView,
     layout: "/mentoria-kyrius-aulas/admin"
   },
   {
@@ -79,7 +79,7 @@ var routes = [
     name: "Slack",
     rtlName: "",
     icon: "tim-icons icon-chat-33",
-    component: PageVideoView,
+    component: CommonPageView,
     layout: "/mentoria-kyrius-aulas/admin"
   },
   {
@@ -87,7 +87,7 @@ var routes = [
     name: "Trello",
     rtlName: "",
     icon: "tim-icons icon-pin",
-    component: PageVideoView,
+    component: CommonPageView,
     layout: "/mentoria-kyrius-aulas/admin"
   },
   

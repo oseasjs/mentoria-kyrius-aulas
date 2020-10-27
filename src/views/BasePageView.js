@@ -12,7 +12,7 @@ import {
 
 
 
-class BaseVideoView extends React.Component {
+class BasePageView extends React.Component {
 
   constructor(props) {
     super(props);
@@ -157,4 +157,4 @@ class BaseVideoView extends React.Component {
 
 }
 
-export default BaseVideoView;
+export default BasePageView;
