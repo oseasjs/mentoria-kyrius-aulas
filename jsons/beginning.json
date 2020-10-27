@@ -1,8 +1,8 @@
 
 [
   {
-    "type":"video",
     "videoId": "XfvQWnRgxG0",
+    "type":"video",
     "title": "Metodologia Scrum",
     "avatarUrl": "https://yt3.ggpht.com/a/AATXAJyN2aThkmRt436aPlBkb3JUMQDwMcJm36E_JkxD=s68-c-k-c0x00ffffff-no-rj",
     "channelName": "MindMaster",
@@ -12,8 +12,8 @@
      ]
   }
   ,{
-    "type":"video",
     "videoId": "cHZF6L7aNfk",
+    "type":"video",
     "title": "Criando uma primeira aplicação Java usando Spring Boot",
     "avatarUrl": "https://yt3.ggpht.com/a/AATXAJyhg-2_7Bp4g0w7deB85gWxzX72YJdd0WjSU7Ve3Q=s68-c-k-c0x00ffffff-no-rj",
     "channelName": "Amigoscode",
@@ -23,8 +23,8 @@
      ]
   }  
   ,{
-    "type":"video",
     "videoId": "spk0TBoKEpo",
+    "type":"video",
     "title": "Subindo o código fonte para o GitHub",
     "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzRMp3uMEDRSQizjnD3FtXjg-9jF5VcyoyZhIeu-A=s68-c-k-c0x00ffffff-no-rj",
     "channelName": "Moisés Abraão",
@@ -34,8 +34,8 @@
      ]
   }
   ,{
-    "type":"video",
     "videoId": "3GBNLCWw78o",
+    "type":"video",
     "title": "Um dia na vida de um desenvolvedor em San Francisco",
     "avatarUrl": "https://yt3.ggpht.com/a/AATXAJyfBl6LQpRD8LfSretsdeINFvfF3ZedcS244eRE8g=s68-c-k-c0x00ffffff-no-rj",
     "channelName": "Edward Sa",
@@ -45,8 +45,8 @@
      ]
   }
   ,{
-    "type":"text",
     "videoId": "3GBNLCWw78o",
+    "type":"text",
     "title": "Um dia na vida de um desenvolvedor em San Francisco",
     "avatarUrl": "https://yt3.ggpht.com/a/AATXAJyfBl6LQpRD8LfSretsdeINFvfF3ZedcS244eRE8g=s68-c-k-c0x00ffffff-no-rj",
     "channelName": "Edward Sa",
