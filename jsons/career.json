@@ -1,0 +1,473 @@
+{
+  "title": "Carreira: Agora que vc é um Jedi",
+  "description": "Previsão de conclusão: 5 dias",
+  "items": [
+    {
+      "id": "H84WD_xyj10",
+      "type":"video",
+      "title": "Níveis da carreira e suas competências",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJxsSnGo0asD5LoVoKyml87kT2GwmxuL-9cINZgmv_E=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Fabio Akita",
+      "channelUrl": "https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Formação e níveis da carreira"},
+        {"description": "Estagiário"},
+        {"description": "Júnior"},
+        {"description": "Pleno"},
+        {"description": "Sênior"},
+        {"description": "Team Leader"},
+        {"description": "Tech Leader"},
+        {"description": "Head"},
+        {"description": "Especialista"}
+      ]
+    }
+    ,{
+      "id": "O76ZfAIEukE",
+      "type":"video",
+      "title": "Mercado de TI para iniciantes",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJxsSnGo0asD5LoVoKyml87kT2GwmxuL-9cINZgmv_E=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Fabio Akita",
+      "channelUrl": "https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Varios tipos de empresa, projetos e remuneração"}
+      ]
+    }
+    ,{
+      "id": "ot-o5_D5bXA",
+      "type":"video",
+      "title": "Principais profissões para desenvolvedores",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJxIQfWsCodGON2AfZ65mZ7Gupdyrlm3cGygi7SPHA=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Marcos Azevedo",
+      "channelUrl": "https://www.youtube.com/channel/UC9l968_q3tSQIRROvJPesow",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Backend"},
+        {"description": "Frontend"},
+        {"description": "Fullstack"},
+        {"description": "Devops"},
+        {"description": "Mobile"}
+      ]
+    }
+    ,{
+      "id": "nVfxaToAJy8",
+      "type":"video",
+      "title": "O que o mercado espera de um Dev",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJxIQfWsCodGON2AfZ65mZ7Gupdyrlm3cGygi7SPHA=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Marcos Azevedo",
+      "channelUrl": "https://www.youtube.com/channel/UC9l968_q3tSQIRROvJPesow",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Parte 2 do vídeo anterior"}
+      ]
+    }
+    ,{
+      "id": "ZY3-MFxVdEw",
+      "type":"video",
+      "title": "O Dev Frontend?",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzuPK0KVmmD_GcElaYoe8rmLq2Mtqgkcxo2Ls0qeQ=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Alura Cursos Online",
+      "channelUrl": "https://www.youtube.com/channel/UCo7EHzKF2zDFWszw7Dg4mPw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "O que o mercado espera de um Dev Front End"}
+      ]
+    }
+    ,{
+      "id": "AxkQksGzKSs",
+      "type":"video",
+      "title": "Dev Fullstack",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJy-N7llWPyCvpYbwjdmWi34U2QjFwSt4UwinjnE4Q=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Danki Code",
+      "channelUrl": "https://www.youtube.com/channel/UCdbMvobipjxi6gdr3L1PBrQ",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "O que o mercado espera de um Dev Full Stack"}
+      ]
+    }
+    ,{
+      "id": "KbvfV01tSig",
+      "type":"video",
+      "title": "Devops",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJwerYXAGxHYGz_gtD67mgHwZiXXvpUNyBYAqMSPOg=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "iMasters",
+      "channelUrl": "https://www.youtube.com/channel/UCNTX_S7zq9h_MKhPljMIoYw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "O que o mercado espera de um DevOps "}
+      ]
+    }
+    ,{
+      "id": "6YnSIyoFaAE",
+      "type":"video",
+      "title": "Dev Mobile",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJz9iqY3pTvqoz6vdVm3W77bVhBuV5jPRRPShJxYzw=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "DevMedia",
+      "channelUrl": "https://www.youtube.com/channel/UClBrpNsTEFLbZDDMW1xiOaQ",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "O que o mercado espera de um Dev Mobile"}
+      ]
+    }
+    ,{
+      "id": "AG8cYHCbGcg",
+      "type":"video",
+      "title": "Outras carreiras em TI",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzuPK0KVmmD_GcElaYoe8rmLq2Mtqgkcxo2Ls0qeQ=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Alura Cursos Online",
+      "channelUrl": "https://www.youtube.com/channel/UCo7EHzKF2zDFWszw7Dg4mPw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "UX"},
+        {"description": "Product Owner"},
+        {"description": "Project Manager"},
+        {"description": "Scrum Master"},
+        {"description": "Business Analist"},
+        {"description": "Data Scientist"}
+      ]
+    }
+    ,{
+      "id": "quSLB3dz-OM",
+      "type":"video",
+      "title": "Área de Atuação em TI",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJwUJQ7lqONzZaFXJKNKq0xiHb-iPaIq2RA-5CbCIA=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Canal TI",
+      "channelUrl": "https://www.youtube.com/channel/UCEQ-nGDGFupHyta90z6hVNQ",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Parte 1"}
+      ]
+    }
+    ,{
+      "id": "fFE3Yttz5RE",
+      "type":"video",
+      "title": "Área de Atuação em TI",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJwUJQ7lqONzZaFXJKNKq0xiHb-iPaIq2RA-5CbCIA=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Canal TI",
+      "channelUrl": "https://www.youtube.com/channel/UCEQ-nGDGFupHyta90z6hVNQ",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Parte 2"}
+      ]
+    }
+    ,{
+      "id": "wev9fMrg-TU",
+      "type":"video",
+      "title": "Conceito de Cloud Computing",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzuPK0KVmmD_GcElaYoe8rmLq2Mtqgkcxo2Ls0qeQ=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Alura Cursos Online",
+      "channelUrl": "https://www.youtube.com/channel/UCo7EHzKF2zDFWszw7Dg4mPw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "SAAS - Software as a Service"},
+        {"description": "PAAS - Plataform as a Service"},
+        {"description": "IAAS - Infrainstructure as a Service"},
+        {"description": "On Premise"},
+        {"description": "Principais players"}
+      ]
+    }
+    ,{
+      "id": "QyWigqkgcbU",
+      "type":"video",
+      "title": "Um pouco mais sobre Cloud Computing",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJxXr9iQk6vTZBczV5RKWbJbd5Y08DZgpy4nGBZaHQ=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Linux 4Fasters",
+      "channelUrl": "https://www.youtube.com/channel/UCeLm2Lzs0-CBsgiEyGXXI8g",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Infraestrutura, Plataforma e Software como serviço"}
+      ]
+    }
+    ,{
+      "id": "-3W3AMNccms",
+      "type":"video",
+      "title": "Modelos de Computação em Núvem",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJwUJQ7lqONzZaFXJKNKq0xiHb-iPaIq2RA-5CbCIA=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Canal TI",
+      "channelUrl": "https://www.youtube.com/channel/UCEQ-nGDGFupHyta90z6hVNQ",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Mais um pouco de SAAS, PAAS e IAAS"}
+      ]
+    }
+    ,{
+      "id": "KVydGQGR1Lo",
+      "type":"video",
+      "title": "On Premisse vs Cloud Computing",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJy3uqz3HFh_5X5JG1Ta7v0KxCGCk6PlY3mcMks-=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Ecourse Review",
+      "channelUrl": "https://www.youtube.com/channel/UCEZi6EERpqH_iQXd-PG2keg",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Prós e contra das 2 abordagens de programação na nuvem"}
+      ]
+    }
+    ,{
+      "id": "8anOprjALhs",
+      "type":"video",
+      "title": "Outras linguagens",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJwc_c-SMSsq-RrlLZRwJGjj2O4Y6f3ssXsphAvI=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Metodologias Ativas Sthem",
+      "channelUrl": "https://www.youtube.com/channel/UC-dEiHFQmlRC9__ZNzfPMSQ",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Fatia do mercado de cada linguagem ao longo dos anos"},
+        {"description": "NodeJS, Python, .Net, PHP, Java, etc"}
+      ]
+    }
+    ,{
+      "id": "5WwFXeHSZHE",
+      "type":"video",
+      "title": "Programação: previsões para 2020",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJxiC0ILNRKn_1sIcE6LcCsRrEVkDCGhpTdMRDJS=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Filipe Deschamps",
+      "channelUrl": "https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Olhando para o futuro do mercado de desenvolvimento no mundo"}
+      ]
+    }
+    ,{
+      "id": "-TqE9eppH-4",
+      "type":"video",
+      "title": "Networking",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzqWPbiAluMTaoTkwMxuqUfiMR_4vjLl1NqrGK3=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "DEVNAESTRADA",
+      "channelUrl": "https://www.youtube.com/channel/UCtIygB7LtILSFWR0kxtZC-A",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Importância na participação de Eventos"}
+      ]
+    }
+    ,{
+      "id": "ZCyqDoas-8s",
+      "type":"video",
+      "title": "Linkedin: Apresentação Pessoal",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJxBbF4o6nDeECouPs-yPfpxgzBdgAPzPOO4SME5Lw=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "O Bruno Germano",
+      "channelUrl": "https://www.youtube.com/channel/UCBWbWViVqDHckknir8PIIdg",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Apresentação pessoal campeã de um Dev"}
+      ]
+    }
+    ,{
+      "id": "JNDFgq8JpLw",
+      "type":"video",
+      "title": "Como conseguir um emprego",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJxBbF4o6nDeECouPs-yPfpxgzBdgAPzPOO4SME5Lw=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "O Bruno Germano",
+      "channelUrl": "https://www.youtube.com/channel/UCBWbWViVqDHckknir8PIIdg",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Como encontras as melhores oportunidades de trabalho"}
+      ]
+    }
+    ,{
+      "id": "2Nq1YSHwvvI",
+      "type":"video",
+      "title": "Linkedin campeão",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJyA-AlQvPTJ01zk-4IthozNKggswZs3zII8akZTUg=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Thiago Reis — Growth Machine",
+      "channelUrl": "https://www.youtube.com/channel/UCq4tL0My6NKKx1NuNr0WHwA",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Montando um perfil campeão no Linkedin"}
+      ]
+    }
+    ,{
+      "id": "IUkzOwBFlJQ",
+      "type":"video",
+      "title": "Certo e Errado no Linkedin",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJw0pvj5R7Q0XxkWHwIxwd2MaTIazHK6u6P91S83rw=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Adriana Cubas",
+      "channelUrl": "https://www.youtube.com/channel/UCmTTKDgAAciioZX5HlEcP7w",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "O que colocar e o que não colocar no Linkedin"}
+      ]
+    }
+    ,{
+      "id": "0QRVaNo_shY",
+      "type":"video",
+      "title": "Estudo Contínuo",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJxFxlhYUNwhGz6we1dLTsFVTY6ETyUxkcuRGzrl=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Programador Sagaz",
+      "channelUrl": "https://www.youtube.com/channel/UCaqc3TH-ZdPw7OTIlndvSgQ",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Ótimas dicas sobre a estudo continuado do Dev"}
+      ]
+    }
+    ,{
+      "id": "IR8BT6erK0I",
+      "type":"video",
+      "title": "Aprendendo a Aprender",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJxQhAPp4ttEcG3D3NCTRhnsfxIHLWaortkRZ6pAbQ=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Leandro Karnal — Admiradores",
+      "channelUrl": "https://www.youtube.com/channel/UChyp62StMW9i8yqTZcLCyXg",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Riqueza associada ao conhecimento"}
+      ]
+    }
+    ,{
+      "id": "k7IPr-rhrPE",
+      "type":"video",
+      "title": "Cursos online: Alura",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzuPK0KVmmD_GcElaYoe8rmLq2Mtqgkcxo2Ls0qeQ=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Alura Cursos Online",
+      "channelUrl": "https://www.youtube.com/channel/UCo7EHzKF2zDFWszw7Dg4mPw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Uma apresentação sobre a proposta de cursos da Alura"}
+      ]
+    }
+    ,{
+      "id": "idQHztQNXQc",
+      "type":"video",
+      "title": "Cursos online: Udemy",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJz0brVq6mgYsPn50_ov-ObqRn0GdGwoG5VO1u0Eqw=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Super Amigos Noobs",
+      "channelUrl": "https://www.youtube.com/channel/UC-oqNm6nl1DoZn62i0XeD5g",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Conhecendo um pouco mais da plataforma de cursos Udemy"}
+      ]
+    }
+    ,{
+      "id": "MScV7afk3ao",
+      "type":"video",
+      "title": "Cursos online: Coursera",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzxaIIxYG6MreUsnvNLTxPDmVPacQezZExC8SqL=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Marco Andrade",
+      "channelUrl": "https://www.youtube.com/channel/UCbBvT2MifpKoD9syrgCJxuA",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Quer estudar de graça nas melhores universidades do mundo?"}
+      ]
+    }
+    ,{
+      "id": "_Y0qhblAaMA",
+      "type":"video",
+      "title": "Cursos online: Coursera",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJwGALxQpLPsesTZYqE-niPUTOSuJ7nd5nWTzMpK=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "EBANX",
+      "channelUrl": "https://www.youtube.com/channel/UCBbNcjuSD5jv_lot1JzrXiQ",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Nanodregree é uma excelente opção a graduação formal oferecida pelas univerdades"}
+      ]
+    }
+    ,{
+      "id": "IkPh53jDnwo",
+      "type":"video",
+      "title": "Certificações",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzuPK0KVmmD_GcElaYoe8rmLq2Mtqgkcxo2Ls0qeQ=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Alura Cursos Online",
+      "channelUrl": "https://www.youtube.com/channel/UCo7EHzKF2zDFWszw7Dg4mPw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Certificações e sua importância"}
+      ]
+    }
+    ,{
+      "id": "HUYYBKSmowA",
+      "type":"video",
+      "title": "Inglês: importância",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJwmmdACZWhjAzitGr0TrCpi8pkYiYLLK1udWH_0=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Centro Cultural América",
+      "channelUrl": "https://www.youtube.com/channel/UC6i_hDKI1mGcUN2OAqN0Rag",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Inglês é fundamental e a gente já vem cantando essa pedra"}
+      ]
+    }
+    ,{
+      "id": "TIXrJvRVmsM",
+      "type":"video",
+      "title": "Inglês: turbinando rápido",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzMt1gBJ5KqeqyZfoMVq7LJjJrKKNPV4I3WFUe71Qw=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "English in Brazil by Carina Fragozo",
+      "channelUrl": "https://www.youtube.com/channel/UCcNm9fM9V5wf-0PZVmkM08g",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Turbinando o inglês com dicas simples"}
+      ]
+    }
+    ,{
+      "id": "5Qbq8E_qr_w",
+      "type":"video",
+      "title": "Inglês: aprendendo sozinho",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJwUr-w_Sq3LRLi4p7lrWvCsi-4yHPFGbA3dws9JAaQ=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Larissa Carvalho",
+      "channelUrl": "https://www.youtube.com/channel/UCkfDYEptFiEcLVwgQ6tftvw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Aprender inglês sem precisar de curso"}
+      ]
+    }
+    ,{
+      "id": "Dk4suaqwRt4",
+      "type":"video",
+      "title": "Tipo de Trabalho",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJw0pvj5R7Q0XxkWHwIxwd2MaTIazHK6u6P91S83rw=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Adriana Cubas",
+      "channelUrl": "https://www.youtube.com/channel/UCmTTKDgAAciioZX5HlEcP7w",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Modalidades de contratação "}
+      ]
+    }
+    ,{
+      "id": "V0FuAukFSzc",
+      "type":"video",
+      "title": "Trabalho Remoto",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzuPK0KVmmD_GcElaYoe8rmLq2Mtqgkcxo2Ls0qeQ=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Alura Cursos Online",
+      "channelUrl": "https://www.youtube.com/channel/UCo7EHzKF2zDFWszw7Dg4mPw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Trabalho remoto é uma realidade há algum tempo na área de TI"}
+      ]
+    }
+    ,{
+      "id": "MV3dxDwRgnQ",
+      "type":"video",
+      "title": "Trabalho Remoto: Vagas Online",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJxiC0ILNRKn_1sIcE6LcCsRrEVkDCGhpTdMRDJS=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Filipe Deschamps",
+      "channelUrl": "https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Vagas de trabalho remoto no Brasil e no Mundo"}
+      ]
+    }
+    ,{
+      "id": "iRjEa7N8wEo",
+      "type":"video",
+      "title": "Formação Acadêmica",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJxsSnGo0asD5LoVoKyml87kT2GwmxuL-9cINZgmv_E=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Fabio Akita",
+      "channelUrl": "https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Faculdade é realmente necessária? O mestre Akita explica com maestria"}
+      ]
+    }
+    ,{
+      "id": "WAtcwmRYXDc",
+      "type":"video",
+      "title": "Dev sem Faculdade",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJyhg-2_7Bp4g0w7deB85gWxzX72YJdd0WjSU7Ve3Q=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Amigoscode",
+      "channelUrl": "https://www.youtube.com/channel/UC2KfmYEM4KCuA1ZurravgYw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Fechando com chave de ouro"},
+        {"description": "Engenheiro de Software sem faculdade"}
+      ]
+    }
+  ]
+}

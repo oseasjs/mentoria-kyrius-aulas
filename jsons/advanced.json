@@ -1,0 +1,248 @@
+{
+  "title": "Conhecimentos avançados: Batendo de frente com o Darth Vader",
+  "description": "Previsão de conclusão: 5 dias",
+  "items": [
+    {
+      "id": "Y0RfCqaA7cg",
+      "type":"video",
+      "title": "Banco de Dados relacional (FK, Joins)",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJxbJ1h0uUBZT80VlJeCmRKdwgIT1Kmx8A3JTtQw=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "One Tutorial",
+      "channelUrl": "https://www.youtube.com/channel/UCyNbTg7ZU5UtC4EPjwXBiRw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Consultas mais apuradas com Postgres"}
+      ]
+    }
+    ,{
+      "id": "zHucO7heuko",
+      "type":"video",
+      "title": "Inner Joins",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJyPw41TiE4XmdAsdpFUfV3JlwMqjHZdhgam85_V=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Iury Teixeira",
+      "channelUrl": "https://www.youtube.com/channel/UC5KL8Y3v942LflBR971XrZg",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Juntando dados de tabelas diferentes com inner join"}
+      ]
+    }
+    ,{
+      "id": "0TgZH2-jPwg",
+      "type":"video",
+      "title": "Left Joins",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJyPw41TiE4XmdAsdpFUfV3JlwMqjHZdhgam85_V=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Iury Teixeira",
+      "channelUrl": "https://www.youtube.com/channel/UC5KL8Y3v942LflBR971XrZg",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Juntando tabelas diferentes com left join"}
+      ]
+    }
+    ,{
+      "id": "Ao0hYZZFx1Q",
+      "type":"video",
+      "title": "Criando Tabelas",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzp-u0opJe8E65bQzGoo5Jy8djckaf0ck0mtytRNA=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Descompila",
+      "channelUrl": "https://www.youtube.com/channel/UCgOu28f2-cdegVHuZZhLDdA",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Revisão de criação de tabelas"}
+      ]
+    }
+    ,{
+      "id": "jDYC3e_anTY",
+      "type":"video",
+      "title": "Chaves Estrangeiras",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzp-u0opJe8E65bQzGoo5Jy8djckaf0ck0mtytRNA=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Descompila",
+      "channelUrl": "https://www.youtube.com/channel/UCgOu28f2-cdegVHuZZhLDdA",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Revisão de FKs - Foreign Keys"}
+      ]
+    }
+    ,{
+      "id": "5t8fOraJvEY",
+      "type":"video",
+      "title": "Inner Joins",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzp-u0opJe8E65bQzGoo5Jy8djckaf0ck0mtytRNA=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Descompila",
+      "channelUrl": "https://www.youtube.com/channel/UCgOu28f2-cdegVHuZZhLDdA",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Revisão de Inner Joins"}
+      ]
+    }
+    ,{
+      "id": "Fm4RDhf4RgQ",
+      "type":"video",
+      "title": "Apelidos",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzp-u0opJe8E65bQzGoo5Jy8djckaf0ck0mtytRNA=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Descompila",
+      "channelUrl": "https://www.youtube.com/channel/UCgOu28f2-cdegVHuZZhLDdA",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Apelidos, também conhecidos como: Alias"}
+      ]
+    }
+    ,{
+      "id": "eu8afirKwfQ",
+      "type":"video",
+      "title": "JPA: Conceitos Básicos",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJydzV3ihpZ2wvlMEq5UNMfOfVT-IDoUg6Y1-FhB4w=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Cursos Kane Chan",
+      "channelUrl": "https://www.youtube.com/channel/UCUIo0adDEesSZAgnoV577cA",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "JPA é a forma mais comum de integrar uma aplicação java com um BD"}
+      ]
+    }
+    ,{
+      "id": "rTu-QX-2NZM",
+      "type":"video",
+      "title": "JPA: mapeamento de clases com Spring Boot",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJydzV3ihpZ2wvlMEq5UNMfOfVT-IDoUg6Y1-FhB4w=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Cursos Kane Chan",
+      "channelUrl": "https://www.youtube.com/channel/UCUIo0adDEesSZAgnoV577cA",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Mapeando classes Java com as tabelas do BD"}
+      ]
+    }
+    ,{
+      "id": "dcDxoEGaaAg",
+      "type":"video",
+      "title": "JPA: Query Methods",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJydzV3ihpZ2wvlMEq5UNMfOfVT-IDoUg6Y1-FhB4w=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Cursos Kane Chan",
+      "channelUrl": "https://www.youtube.com/channel/UCUIo0adDEesSZAgnoV577cA",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Conheçendo um pouco de Spring Data"}
+      ]
+    }
+    ,{
+      "id": "8fbfHu8isI4",
+      "type":"video",
+      "title": "Conectando Spring Boot com o BD",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJyhg-2_7Bp4g0w7deB85gWxzX72YJdd0WjSU7Ve3Q=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Amigoscode",
+      "channelUrl": "https://www.youtube.com/channel/UC2KfmYEM4KCuA1ZurravgYw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "JDBC Templates como alternativa ao JPA e o Flyway para versionamento de scripts"}
+      ]
+    }
+    ,{
+      "id": "od6HHvuxgAo",
+      "type":"video",
+      "title": "Projetos modulares em Spring e Maven",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJyjPtN0PMe1tDzMBF317gj0MpInOWZVcmdxVSe6=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "CodeForgeYT",
+      "channelUrl": "https://www.youtube.com/channel/UCKMbmdtX15faa0ADwT35EyA",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Gerenciando projetos Spring modularizados"}
+      ]
+    }
+    ,{
+      "id": "Ekr4jxOIf4c",
+      "type":"video",
+      "title": "Testes com Spring Boot",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzHEXTWaRbtfoPjxkko1RrFzTQ3y3haN7Apm6rR=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Defog Tech",
+      "channelUrl": "https://www.youtube.com/channel/UCiz26UeGvcTy4_M3Zhgk7FQ",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Como desenvolver testes automatizado de aplicações Spring"}
+      ]
+    }
+    ,{
+      "id": "A0N9Ho86ids",
+      "type":"video",
+      "title": "Testes com JUnit",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJx1JGeaZaDng2U-wdPCfneyb8WNTBeHQPJzs_fQiQ=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Tech Primers",
+      "channelUrl": "https://www.youtube.com/channel/UCB12jjYsYv-eipCvBDcMbXw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Implementando testes automatizados com JUnit"}
+      ]
+    }
+    ,{
+      "id": "aJnFGMclhU8",
+      "type":"video",
+      "title": "Github Actions",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJxu3VyUbJ153nt075pz5F5gXPiE1kFRchGQjTqh=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "GitHub Training & Guides",
+      "channelUrl": "https://www.youtube.com/channel/UCP7RrmoueENv9TZts3HXXtw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Fluxo de branch, realease, hotfix com git"}
+      ]
+    }
+    ,{
+      "id": "xSv_m3KhUO8",
+      "type":"video",
+      "title": "Integração e Implantação Contínua",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJxu3VyUbJ153nt075pz5F5gXPiE1kFRchGQjTqh=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "GitHub Training & Guides",
+      "channelUrl": "https://www.youtube.com/channel/UCP7RrmoueENv9TZts3HXXtw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Entendendo como funciona o fluxo de CI/CD"}        
+      ]
+    }
+    ,{
+      "id": "eB0nUzAI7M8",
+      "type":"video",
+      "title": "Automação de Builds com GitHub Action",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJwAle-GCzklNOEXi8fYqoby3omwcM0dV_EK008LGg=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Fireship",
+      "channelUrl": "https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Implementando CI/CD com Github Actions"}        
+      ]
+    }
+    ,{
+      "id": "it0n2ZYB-5o",
+      "type":"video",
+      "title": "GitHub Action: escaneando vulnerabilidades",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzhbRMcmVM2Xnz-cabQQile2lwwhX6VrxJ4DWeg=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Keith, the Coder",
+      "channelUrl": "https://www.youtube.com/channel/UCK4Onn_G6hYTQyo6tC3XY1w",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Implementando CI para projetos Maven com Github Actions"},
+        {"description": "Sobre este último vídeo, não há necessidade de criar um arquivo bash no workflow do github"},
+        {"description": "Basta configurar o arquivo yml para executar os comandos do maven diretamente"}
+      ]
+    }
+    ,{
+      "id": "jSnLOoGjQ80",
+      "type":"video",
+      "title": "Conceito básico de microserviços",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzuPK0KVmmD_GcElaYoe8rmLq2Mtqgkcxo2Ls0qeQ=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Alura Cursos Online",
+      "channelUrl": "https://www.youtube.com/channel/UCo7EHzKF2zDFWszw7Dg4mPw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Um bate papo muito bacana sobre microserviços passando porquase tudo o que vimos aqui"}        
+      ]
+    }
+    ,{
+      "id": "Ap2uWsJV25w",
+      "type":"video",
+      "title": "Para relaxar: Desafio dos 10 anos",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJz4WLgZOEHqXpWIupe7ot_x7Bc5AhErXu7bwJz7rw=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "TechLead",
+      "channelUrl": "https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Retrospectiva de 10 anos a vida de um Desenvolvedor"}
+      ]
+    }
+  ]
+}

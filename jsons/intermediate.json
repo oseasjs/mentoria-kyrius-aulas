@@ -1,0 +1,349 @@
+{
+  "title": "Conhecimentos Intermediários: Aprendiz Padawan",
+  "description": "Previsão de conclusão: 5 dias",
+  "items": [
+    {
+      "id": "6IGl4Tf2VVI",
+      "type":"video",
+      "title": "Estrutura de um arquivo JSON",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJyigXIir3dn3FU62n0dvRVE7Joju0V5mwOZX5kwZg=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Codota",
+      "channelUrl": "https://www.youtube.com/channel/UC3ZLFXRRmK3XbT5Oq0qPLqA",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Um exemplo simples de JSON com Java"}
+      ]
+    }
+    ,{
+      "id": "H3Q63XyHk20",
+      "type":"video",
+      "title": "Afinal, o que é Json?",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzKFNfTjmXUdGMp5sA_TILIhxC-VNmUhJwDY_BhMA=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Harlley Oliveira",
+      "channelUrl": "https://www.youtube.com/channel/UCTJ1mLre8sT-d4KuvmQsSQA",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Mais um pouco de JSON usando um editor online"}
+      ]
+    }
+    ,{
+      "id": "hBnhsr4Eyl8",
+      "type":"video",
+      "title": "Estrutura de um arquivo XML",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJwUJQ7lqONzZaFXJKNKq0xiHb-iPaIq2RA-5CbCIA=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Canal TI",
+      "channelUrl": "https://www.youtube.com/channel/UCEQ-nGDGFupHyta90z6hVNQ",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Diferença e semelhanças entre XML e JSON"}
+      ]
+    }
+    ,{
+      "id": "9408HdOYhAA",
+      "type":"video",
+      "title": "O que é XML?",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzHthPTdtTZCUA--6pcTTbQcY7WkxZC5pNWX3to=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "DBA PRO",
+      "channelUrl": "https://www.youtube.com/channel/UC3Db4xY70lk3aZoUIgA2uKQ",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Entendendo um pouco mais de XML e arquivos de dados"}
+      ]
+    }
+    ,{
+      "id": "cdLNKUoMc6c",
+      "type":"video",
+      "title": "Estrutura de um arquivo YAML",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJwZDjZBLse-ByxN1EAxA5ll42m2QN_8UEL_J0wbdA=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Mike Dane",
+      "channelUrl": "https://www.youtube.com/channel/UCvmINlrza7JHB1zkIOuXEbw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Conhecendo a sintaxe dos arquivos YAML"}
+      ]
+    }
+    ,{
+      "id": "cdLNKUoMc6c",
+      "type":"video",
+      "title": "Properties vs Yaml",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJx1JGeaZaDng2U-wdPCfneyb8WNTBeHQPJzs_fQiQ=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Tech Primers",
+      "channelUrl": "https://www.youtube.com/channel/UCB12jjYsYv-eipCvBDcMbXw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Configurações de properties vs YAML (usando spring)"}
+      ]
+    }
+    ,{
+      "id": "weQ8ssA6iBU",
+      "type":"video",
+      "title": "O que é Rest ?",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzuPK0KVmmD_GcElaYoe8rmLq2Mtqgkcxo2Ls0qeQ=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Alura Cursos Online",
+      "channelUrl": "https://www.youtube.com/channel/UCo7EHzKF2zDFWszw7Dg4mPw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Rest"},
+        {"description": "Tipos de Request/Response HTTP"},
+        {"description": "Postman"}
+      ]
+    }
+    ,{
+      "id": "rI9rhM6iJoI",
+      "type":"video",
+      "title": "Postman",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJxNerAejaabogscdR6z3b9qtXtUUX4QOwSGziaRkQ=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "DevPleno",
+      "channelUrl": "https://www.youtube.com/channel/UC07JWf9A0B1scApbS1Te7Ww",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "APIs Rest com Json usando Postman"}
+      ]
+    }
+    ,{
+      "id": "HHASdmCR1bE",
+      "type":"video",
+      "title": "Um pouco mais de Postman",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJx6rMSZaeGn1EYwQB_r1ZWIZjL5Qkr1MPPLBky-EA=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Automation Step by Step — Raghav Pal",
+      "channelUrl": "https://www.youtube.com/channel/UCTt7pyY-o0eltq14glaG5dg",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Expremendo um pouco mais o Carteiro (Postman)"}
+      ]
+    }
+    ,{
+      "id": "8CkMX2qXgdY",
+      "type":"video",
+      "title": "Modelagem de dados e MER",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJwIfyN9ZKceIygwn1MyquwDroYtO4wLTtS1vuDgn3c=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Miriam TechCod",
+      "channelUrl": "https://www.youtube.com/channel/UCBJKi6wqJPj0wEU4U2bf_Bg",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Um pouco de modelagem conceitual, lógica e física"}
+      ]
+    }
+    ,{
+      "id": "lAtCySGDD48",
+      "type":"video",
+      "title": "Modelagem de dados usando o draw.io",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJyvGtZIlbs9Wu9yOvtV3fUToB5k3voIYTKTZyUklQ=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Dr. Daniel Soper",
+      "channelUrl": "https://www.youtube.com/channel/UCkuzGLn9nxFwlS0lY2ruuJg",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "MER usando draw.io"}
+      ]
+    }
+    ,{
+      "id": "0",
+      "type":"text",
+      "title": " Instalação do Postgres e PGAdmin com docker-compose",
+      "avatarUrl": "https://miro.medium.com/fit/c/262/262/1*Cy7Or4Y6JpnP85EFPA18Ig.jpeg",
+      "channelName": "Renato Groffe",
+      "channelUrl": "https://renatogroffe.medium.com/postgresql-pgadmin-4-docker-compose-montando-rapidamente-um-ambiente-para-uso-55a2ab230b89",
+      "iconType":"medium",
+      "descriptionCheckList": [
+        {"description": "Saindo o pouco do padrão de vídeos aulas, vamos utilizar essa vez um excelente tutorial no formato de artigo para instalação do Postgres e PGAdmin utilizando docker-compose, criado pelo Renato Groffe,"},
+        {"description": "Então, é só seguir o passo a passo clicando no link do Medium ao lado."},
+        {"description": "As aulas seguintes dependem do Postgres e do PGAdmin instalados. "},
+        {"description": "Então, nada de pular essa parte, viu?"}
+      ]
+    }
+    ,{
+      "id": "9eIDBDvBxeA",
+      "type":"video",
+      "title": "Comandos Básicos de SQL",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJw39WDSZIkDbyDAoOmNWZvwgqwfjPcR_N9IkXqNsw=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Marco Maddo Desenvolvimento de Apps",
+      "channelUrl": "https://www.youtube.com/channel/UCEBieECyJD82RNCmAAmw77A",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Ótima aula sobre DDL e DML"}
+      ]
+    }
+    ,{
+      "id": "z3imgtVxNCs",
+      "type":"video",
+      "title": "Criando tabelas no Postgres",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJxuNxcc5gMUtQ5144ap6B2tYTHuGm_8lhUnnSs9Fw=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Denys on Data",
+      "channelUrl": "https://www.youtube.com/channel/UCAQesn04VWHi46xF2yRwDKw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "DDL na prática com PGAdmin"}
+      ]
+    }
+    ,{
+      "id": "SNFlOYStFQQ",
+      "type":"video",
+      "title": "Populando tabelas no Postgres",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJxuNxcc5gMUtQ5144ap6B2tYTHuGm_8lhUnnSs9Fw=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Denys on Data",
+      "channelUrl": "https://www.youtube.com/channel/UCAQesn04VWHi46xF2yRwDKw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "DML na prática com PGAdmin"}
+      ]
+    }
+    ,{
+      "id": "XAL05B5cCX4",
+      "type":"video",
+      "title": "Relacionamento e Integridade de Dados",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzVt5uwMx7bU1h0YPrUWilQvlM0I6QtvKgw6FIBSA=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "UpInside",
+      "channelUrl": "https://www.youtube.com/channel/UCw6vF0DoeshwUcmBnjUe2ZQ",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Manter a integridade dos dados é fundamental"}
+      ]
+    }
+    ,{
+      "id": "5CgwgRHhCRM",
+      "type":"video",
+      "title": "Design Patterns: conceitos e exemplos",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJwUJQ7lqONzZaFXJKNKq0xiHb-iPaIq2RA-5CbCIA=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Canal TI",
+      "channelUrl": "https://www.youtube.com/channel/UCEQ-nGDGFupHyta90z6hVNQ",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Padrão de Projetos nunca sai de moda"}
+      ]
+    }
+    ,{
+      "id": "1VAO-8Bt8Y8",
+      "type":"video",
+      "title": "Design Patterns: Strategy",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzgxxSqQwIRWTC3-KOzBW2sHHA2XKDSEDybxXHt=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Rakshith Vasudev",
+      "channelUrl": "https://www.youtube.com/channel/UCCfS00z2jVV4tS3xqsGjvrw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Padrão de Projeto Strategy com Java"}
+      ]
+    }
+    ,{
+      "id": "Q3nIdzN7xGs",
+      "type":"video",
+      "title": "Design Patterns: Singleton",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzgxxSqQwIRWTC3-KOzBW2sHHA2XKDSEDybxXHt=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Rakshith Vasudev",
+      "channelUrl": "https://www.youtube.com/channel/UCCfS00z2jVV4tS3xqsGjvrw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Padrão de Projeto Singleton (famosinho) com Java"}
+      ]
+    }
+    ,{
+      "id": "lztsmTRyoV8",
+      "type":"video",
+      "title": "Design Patterns: Decorator",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzgxxSqQwIRWTC3-KOzBW2sHHA2XKDSEDybxXHt=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Rakshith Vasudev",
+      "channelUrl": "https://www.youtube.com/channel/UCCfS00z2jVV4tS3xqsGjvrw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Padrão de Projeto Decorator com Java"}
+      ]
+    }
+    ,{
+      "id": "SrZGWtJDFgo",
+      "type":"video",
+      "title": "Design Patterns: Factory",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzgxxSqQwIRWTC3-KOzBW2sHHA2XKDSEDybxXHt=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Rakshith Vasudev",
+      "channelUrl": "https://www.youtube.com/channel/UCCfS00z2jVV4tS3xqsGjvrw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Padrão de Projeto Factory com Java"}
+      ]
+    }
+    ,{
+      "id": "ABjV1bObFW8",
+      "type":"video",
+      "title": "Spring Framwork: principais projetos",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJyeecmpxbNPuG14Bvs9SrBzkitkY85U49ehV9YeCw=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "AlgaWorks",
+      "channelUrl": "https://www.youtube.com/channel/UCIPQ0ZqTl5e5U2OFKENOh9g",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Bom resumo dos principais projetos Spring Boot"}
+      ]
+    }
+    ,{
+      "id": "GaOxliPuQtA",
+      "type":"video",
+      "title": "Injeção de Dependência",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJyeecmpxbNPuG14Bvs9SrBzkitkY85U49ehV9YeCw=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "AlgaWorks",
+      "channelUrl": "https://www.youtube.com/channel/UCIPQ0ZqTl5e5U2OFKENOh9g",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Entendendo Injeção de Dependência com Spring"}
+      ]
+    }
+    ,{
+      "id": "wSiVxOsJ7es",
+      "type":"video",
+      "title": "Spring Data JPA",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJyeecmpxbNPuG14Bvs9SrBzkitkY85U49ehV9YeCw=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "AlgaWorks",
+      "channelUrl": "https://www.youtube.com/channel/UCIPQ0ZqTl5e5U2OFKENOh9g",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Como uma aplicação Java interage com o banco de dados"}
+      ]
+    }
+    ,{
+      "id": "vrHWFtOKMKM",
+      "type":"video",
+      "title": "Projeto Não Web com Spring",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJyeecmpxbNPuG14Bvs9SrBzkitkY85U49ehV9YeCw=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "AlgaWorks",
+      "channelUrl": "https://www.youtube.com/channel/UCIPQ0ZqTl5e5U2OFKENOh9g",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Um pouco Spring mão na massa"},
+        {"description": "Finge que não viu o Eclipse — STS"}
+      ]
+    }
+    ,{
+      "id": "FOX0r52_hwE",
+      "type":"video",
+      "title": "Spring Security",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJyeecmpxbNPuG14Bvs9SrBzkitkY85U49ehV9YeCw=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "AlgaWorks",
+      "channelUrl": "https://www.youtube.com/channel/UCIPQ0ZqTl5e5U2OFKENOh9g",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Ótimo exemplo de uma aplicação Web com Autenticação e Autorização"}
+      ]
+    }
+    ,{
+      "id": "vtPkZShrvXQ",
+      "type":"video",
+      "title": "Aplicação completa com Spring",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJwFt03RAznOsPwlfo5c1kW1rp-1o3Xgpw9MNreQMQ=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "freeCodeCamp.org",
+      "channelUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Desenvolvendo uma aplicação usando Spring Boot"}
+      ]
+    }
+    ,{
+      "id": "OkboNGQ9LU0",
+      "type":"video",
+      "title": "Como melhorar o nível do Inglês",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJxsSnGo0asD5LoVoKyml87kT2GwmxuL-9cINZgmv_E=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Fabio Akita",
+      "channelUrl": "https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Excelente aula do mestre Akita de como aprender inglês de forma definitiva"}
+      ]
+    }
+    
+  ]
+}
