@@ -16,6 +16,13 @@
 
 */
 import CommonPageView from "views/CommonPageView.js";
+import Dashboard from "views/Dashboard";
+import Icons from "views/Icons";
+import Notifications from "views/Notifications";
+import Typography from "views/Typography";
+import UserProfile from "views/UserProfile";
+import TableList from "views/TableList";
+import Map from "views/Map";
 
 var routes = [
   {
@@ -51,7 +58,7 @@ var routes = [
     layout: "/mentoria-kyrius-aulas/admin"
   },
   {
-    path: "/intermadiate-know",
+    path: "/intermediate",
     name: "Intermediário",
     rtlName: "",
     icon: "tim-icons icon-components",
@@ -94,92 +101,63 @@ var routes = [
 
 
 
-  {
-    /*
+  // {
+  //   path: "/dashboard",
+  //   name: "Dashboard",
+  //   rtlName: "لوحة القيادة",
+  //   icon: "tim-icons icon-chart-pie-36",
+  //   component: Dashboard,
+  //   layout: "/mentoria-kyrius-aulas/admin"
+  // },
+  // {
+  //   path: "/icons",
+  //   name: "Icons",
+  //   rtlName: "الرموز",
+  //   icon: "tim-icons icon-atom",
+  //   component: Icons,
+  //   layout: "/mentoria-kyrius-aulas/admin"
+  // },
+  // {
+  //   path: "/map",
+  //   name: "Map",
+  //   rtlName: "خرائط",
+  //   icon: "tim-icons icon-pin",
+  //   component: Map,
+  //   layout: "/mentoria-kyrius-aulas/admin"
+  // },
+  // {
+  //   path: "/notifications",
+  //   name: "Notifications",
+  //   rtlName: "إخطارات",
+  //   icon: "tim-icons icon-bell-55",
+  //   component: Notifications,
+  //   layout: "/mentoria-kyrius-aulas/admin"
+  // },
+  // {
+  //   path: "/user-profile",
+  //   name: "User Profile",
+  //   rtlName: "ملف تعريفي للمستخدم",
+  //   icon: "tim-icons icon-single-02",
+  //   component: UserProfile,
+  //   layout: "/mentoria-kyrius-aulas/admin"
+  // },
+  // {
+  //   path: "/tables",
+  //   name: "Table List",
+  //   rtlName: "قائمة الجدول",
+  //   icon: "tim-icons icon-puzzle-10",
+  //   component: TableList,
+  //   layout: "/mentoria-kyrius-aulas/admin"
+  // },
+  // {
+  //   path: "/typography",
+  //   name: "Typography",
+  //   rtlName: "طباعة",
+  //   icon: "tim-icons icon-align-center",
+  //   component: Typography,
+  //   layout: "/mentoria-kyrius-aulas/admin"
+  // },
 
-      {
-        path: "/notifications",
-        name: "Notifications",
-        rtlName: "إخطارات",
-        icon: "tim-icons icon-bell-55",
-        component: Notifications,
-        layout: "/admin"
-      },
-      {
-        path: "/icons",
-        name: "Icons",
-        rtlName: "الرموز",
-        icon: "tim-icons icon-atom",
-        component: Icons,
-        layout: "/admin"
-      },
-      
-      {
-        path: "/dashboard",
-        name: "Dashboard",
-        rtlName: "لوحة القيادة",
-        icon: "tim-icons icon-chart-pie-36",
-        component: Dashboard,
-        layout: "/admin"
-      },
-      {
-        path: "/icons",
-        name: "Icons",
-        rtlName: "الرموز",
-        icon: "tim-icons icon-atom",
-        component: Icons,
-        layout: "/admin"
-      },
-      {
-        path: "/map",
-        name: "Map",
-        rtlName: "خرائط",
-        icon: "tim-icons icon-pin",
-        component: Map,
-        layout: "/admin"
-      },
-      {
-        path: "/notifications",
-        name: "Notifications",
-        rtlName: "إخطارات",
-        icon: "tim-icons icon-bell-55",
-        component: Notifications,
-        layout: "/admin"
-      },
-      {
-        path: "/user-profile",
-        name: "User Profile",
-        rtlName: "ملف تعريفي للمستخدم",
-        icon: "tim-icons icon-single-02",
-        component: UserProfile,
-        layout: "/admin"
-      },
-      {
-        path: "/tables",
-        name: "Table List",
-        rtlName: "قائمة الجدول",
-        icon: "tim-icons icon-puzzle-10",
-        component: TableList,
-        layout: "/admin"
-      },
-      {
-        path: "/typography",
-        name: "Typography",
-        rtlName: "طباعة",
-        icon: "tim-icons icon-align-center",
-        component: Typography,
-        layout: "/admin"
-      },
-      {
-        path: "/rtl-support",
-        name: "RTL Support",
-        rtlName: "ار تي ال",
-        icon: "tim-icons icon-world",
-        component: Rtl,
-        layout: "/rtl"
-      }
-
-  */}
   
   
 ];

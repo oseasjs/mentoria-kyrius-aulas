@@ -1,0 +1,90 @@
+{
+  "title": "Conhecimentos Básicos: Escola de Aprendiz “Padawan”",
+  "description": "Previsão de conclusão: 3 dias",
+  "items": [
+    {
+      "id": "I5SBrXX7mZI",
+      "type":"video",
+      "title": "Comandos Básicos do Linux",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJxPeXbfHZxkLEoTVV66dx614nyE_0ZB43hs7OeuQg=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Diolinux",
+      "channelUrl": "https://www.youtube.com/channel/UCEf5U1dB5a2e2S-XUlnhxSA",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Para dar uma força com os comandos Linux"}
+      ]
+    }
+    ,{
+      "id": "0cDj7citEjE",
+      "type":"video",
+      "title": "Comandos Básicos Docker",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJx1Atwfo_LSsekS8-zcJLoULy7HrEWOZcfoAC3JWw=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "LINUXtips",
+      "channelUrl": "https://www.youtube.com/channel/UCJnKVGmXRXrH49Tvrx5X0Sw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Entendendo um pouco melhor o gerenciamento de imagens com o mestre. Vái!"}
+      ]
+    }
+    ,{
+      "id": "cESzlF5wPIQ",
+      "type":"video",
+      "title": "Comandos Básicos do Maven",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJxsnevG7OTpkEgJjAI4842tK_r6_Mtwn_H8scvn=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "yawtecnologia",
+      "channelUrl": "https://www.youtube.com/channel/UCVweFFaqVwGO-3x9NbI_rUA",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Para gerenciar dependências e versões, não tem melhor"}
+      ]
+    }
+    ,{
+      "id": "UbJLOn1PAKw",
+      "type":"video",
+      "title": "Comandos Básicos do Git",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJxSYHkG4ITamPUc0EHrdRyEAhJqFzjdP3fOfqzSNA=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Dev Samurai",
+      "channelUrl": "https://www.youtube.com/channel/UC-lHCBqKEtnXA0SBtdOP0bw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Pra entender melhor o gerenciamento de código fonte"}
+      ]
+    }
+    ,{
+      "id": "ZW2JLtX4Dag",
+      "type":"video",
+      "title": "Arquitetura Básica de uma aplicação",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJwUJQ7lqONzZaFXJKNKq0xiHb-iPaIq2RA-5CbCIA=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Canal TI",
+      "channelUrl": "https://www.youtube.com/channel/UCEQ-nGDGFupHyta90z6hVNQ",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Explicação curta e objetiva do padrão MVC"}
+      ]
+    }
+    ,{
+      "id": "5XPojnx9bb8",
+      "type":"video",
+      "title": "Spring Framework",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzuPK0KVmmD_GcElaYoe8rmLq2Mtqgkcxo2Ls0qeQ=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Alura Cursos Online",
+      "channelUrl": "https://www.youtube.com/channel/UCo7EHzKF2zDFWszw7Dg4mPw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Ótima explicação sobre Spring feita pela galera nota 1000 da Alura"}
+      ]
+    }
+    ,{
+      "id": "oS-m5-XikwA",
+      "type":"video",
+      "title": "Um dia na vida de um desenvolvedor em Londres",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJyhg-2_7Bp4g0w7deB85gWxzX72YJdd0WjSU7Ve3Q=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Amigoscode",
+      "channelUrl": "https://www.youtube.com/channel/UC2KfmYEM4KCuA1ZurravgYw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Ainda está rateando no inglês, não esqueça de ativar a legenda"}
+      ]
+    }
+  ]
+}

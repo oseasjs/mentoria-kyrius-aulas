@@ -1,0 +1,274 @@
+{
+  "title": "Preparação do Ambiente: Conhecendo a “Força” e aprendendo a se virar",
+  "description": "Previsão de conclusão: 5 dias",
+  "items": [
+    {
+      "id": "yefmcX57Eyg",
+      "type":"video",
+      "title": "Explorando o IntelliJ",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJyhg-2_7Bp4g0w7deB85gWxzX72YJdd0WjSU7Ve3Q=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Amigoscode",
+      "channelUrl": "https://www.youtube.com/channel/UC2KfmYEM4KCuA1ZurravgYw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Conhecer bem a ferramenta de trabalho é fundamental"}
+      ]
+    }
+    ,{
+      "id": "CxlHy4JC0SQ",
+      "type":"video",
+      "title": "Conhecimentos Básicos da linguagem Java",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzgxxSqQwIRWTC3-KOzBW2sHHA2XKDSEDybxXHt=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Rakshith Vasudev",
+      "channelUrl": "https://www.youtube.com/channel/UCCfS00z2jVV4tS3xqsGjvrw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Classe"},
+        {"description": "Atributos"},
+        {"description": "Métodos"},
+        {"description": "Construtores"},
+        {"description": "Modificadores de Acesso"},
+        {"description": "Interfaces"},
+        {"description": "Enums"},
+        {"description": "Condições"},
+        {"description": "Repetições"}
+      ]
+    }
+    ,{
+      "id": "yE3JWhAb_mY",
+      "type":"video",
+      "title": "Introdução à Orientação à Objeto",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzgxxSqQwIRWTC3-KOzBW2sHHA2XKDSEDybxXHt=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Rakshith Vasudev",
+      "channelUrl": "https://www.youtube.com/channel/UCCfS00z2jVV4tS3xqsGjvrw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Métodos"}
+      ]
+    }
+    ,{
+      "id": "wYV55DMFkXA",
+      "type":"video",
+      "title": "Introdução à Classes Java",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzgxxSqQwIRWTC3-KOzBW2sHHA2XKDSEDybxXHt=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Rakshith Vasudev",
+      "channelUrl": "https://www.youtube.com/channel/UCCfS00z2jVV4tS3xqsGjvrw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Construtores e o uso do this"}
+      ]
+    }
+    ,{
+      "id": "h3hmITqQMhI",
+      "type":"video",
+      "title": "Usando à Múltiplos Construtores",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzgxxSqQwIRWTC3-KOzBW2sHHA2XKDSEDybxXHt=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Rakshith Vasudev",
+      "channelUrl": "https://www.youtube.com/channel/UCCfS00z2jVV4tS3xqsGjvrw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Múltiplos Construtores"}
+      ]
+    }
+    ,{
+      "id": "Z12IEPyh0fc",
+      "type":"video",
+      "title": "Modificadores de Acesso",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzgxxSqQwIRWTC3-KOzBW2sHHA2XKDSEDybxXHt=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Rakshith Vasudev",
+      "channelUrl": "https://www.youtube.com/channel/UCCfS00z2jVV4tS3xqsGjvrw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Public"},
+        {"description": "Private"},
+        {"description": "Métodos getters"},
+        {"description": "Métodos setters "}
+      ]
+    }
+    ,{
+      "id": "-dmzj30Jyis",
+      "type":"video",
+      "title": "Herança",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzgxxSqQwIRWTC3-KOzBW2sHHA2XKDSEDybxXHt=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Rakshith Vasudev",
+      "channelUrl": "https://www.youtube.com/channel/UCCfS00z2jVV4tS3xqsGjvrw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Herança e o uso do super"}
+      ]
+    }
+    ,{
+      "id": "U6vdPgF2QKw",
+      "type":"video",
+      "title": "Construtores e Herança",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzgxxSqQwIRWTC3-KOzBW2sHHA2XKDSEDybxXHt=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Rakshith Vasudev",
+      "channelUrl": "https://www.youtube.com/channel/UCCfS00z2jVV4tS3xqsGjvrw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Construtores e o uso do super"}
+      ]
+    }
+    ,{
+      "id": "GVktNI-W53Y",
+      "type":"video",
+      "title": "Entendendo Interfaces",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzgxxSqQwIRWTC3-KOzBW2sHHA2XKDSEDybxXHt=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Rakshith Vasudev",
+      "channelUrl": "https://www.youtube.com/channel/UCCfS00z2jVV4tS3xqsGjvrw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Interfaces"}
+      ]
+    }
+    ,{
+      "id": "PloqsbxpHHM",
+      "type":"video",
+      "title": "Entendendo Classes Abstratas",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzgxxSqQwIRWTC3-KOzBW2sHHA2XKDSEDybxXHt=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Rakshith Vasudev",
+      "channelUrl": "https://www.youtube.com/channel/UCCfS00z2jVV4tS3xqsGjvrw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Classes Abstratas"}
+      ]
+    }
+    ,{
+      "id": "opnmiGoPFms",
+      "type":"video",
+      "title": "Arrays",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzgxxSqQwIRWTC3-KOzBW2sHHA2XKDSEDybxXHt=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Rakshith Vasudev",
+      "channelUrl": "https://www.youtube.com/channel/UCCfS00z2jVV4tS3xqsGjvrw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Arrays e Loops"}
+      ]
+    }
+    ,{
+      "id": "eNY3QgpUSoo",
+      "type":"video",
+      "title": "ArrayList",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzgxxSqQwIRWTC3-KOzBW2sHHA2XKDSEDybxXHt=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Rakshith Vasudev",
+      "channelUrl": "https://www.youtube.com/channel/UCCfS00z2jVV4tS3xqsGjvrw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "ArrayList e Foreach"}
+      ]
+    }
+    ,{
+      "id": "dRX6qO46l44",
+      "type":"video",
+      "title": "Comparator",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzgxxSqQwIRWTC3-KOzBW2sHHA2XKDSEDybxXHt=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Rakshith Vasudev",
+      "channelUrl": "https://www.youtube.com/channel/UCCfS00z2jVV4tS3xqsGjvrw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Ordenação de dados usando Comparator"}
+      ]
+    }
+    ,{
+      "id": "e0X00EoFQbE",
+      "type":"video",
+      "title": "Projeto simples usando OO",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzgxxSqQwIRWTC3-KOzBW2sHHA2XKDSEDybxXHt=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Rakshith Vasudev",
+      "channelUrl": "https://www.youtube.com/channel/UCCfS00z2jVV4tS3xqsGjvrw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Sistema de Gestão de Escola com OO"}
+      ]
+    }
+    ,{
+      "id": "x81mj8ANlHY",
+      "type":"video",
+      "title": "Enums e Condições",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJwAyCZGleVpp_e-jurqWYsH-6Q4rZaKVeareXRK7A=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Tech With Tim",
+      "channelUrl": "https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Enums e condições (if, else, if else)"}
+      ]
+    }
+    ,{
+      "id": "MBm7iyYt6NQ",
+      "type":"video",
+      "title": "Tipos Primitivos e Wrappers",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJxWRonuH3-0soUt9B04cNEVOf0bltDxhO9Tabyt=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "DevDojo",
+      "channelUrl": "https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Enums"},
+        {"description": "Condições (if, else, if else)"}
+      ]
+    }
+    ,{
+      "id": "MBm7iyYt6NQ",
+      "type":"video",
+      "title": "Aprofundando Orientação a Objeto",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzz0-6K15WZR1bKiYaLIwyzhdRWwpWPOWwwHECx2g=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Sammy Hegab",
+      "channelUrl": "https://www.youtube.com/channel/UC4HKInLNA3_eW0_KyjjrlTw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Herança"},
+        {"description": "Polimorfismo"},
+        {"description": "Encapsulamento"}
+      ]
+    }
+    ,{
+      "id": "VRpHdSFWGPs",
+      "type":"video",
+      "title": "Programação Funcional com Java",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJyhg-2_7Bp4g0w7deB85gWxzX72YJdd0WjSU7Ve3Q=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Amigoscode",
+      "channelUrl": "https://www.youtube.com/channel/UC2KfmYEM4KCuA1ZurravgYw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Introduzido a partir do Java 8"}
+      ]
+    }
+    ,{
+      "id": "sn-D0gyH8YE",
+      "type":"video",
+      "title": "Lombok",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJxIQfWsCodGON2AfZ65mZ7Gupdyrlm3cGygi7SPHA=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Marcos Azevedo",
+      "channelUrl": "https://www.youtube.com/channel/UC9l968_q3tSQIRROvJPesow",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Código bom é código limpo"}
+      ]
+    }
+    ,{
+      "id": "sn-D0gyH8YE",
+      "type":"video",
+      "title": "Tour pela sede do Facebook",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJwfMLl_qxPgmUN96ZX5k68PDkwnIzfMbD8YYiTtmg=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "The B1M",
+      "channelUrl": "https://www.youtube.com/channel/UC6n8I1UDTKP1IWjQMg6_TwA",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Para dar uma relaxada"}
+      ]
+    }
+    ,{
+      "id": "0",
+      "type":"text",
+      "title": "EXTRA",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJxWRonuH3-0soUt9B04cNEVOf0bltDxhO9Tabyt=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "DevDojo",
+      "channelUrl": "https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Chegou até aqui e quer um pouco mais ?"},
+        {"description": "Separei uma playlist de mais exercícios de orientação a objeto com Java para você se divertir."},
+        {"description": "É só clicar no link do youtube aí do lado."}
+      ]
+    }
+  ]
+}
