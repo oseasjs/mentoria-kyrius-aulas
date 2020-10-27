@@ -78,7 +78,7 @@ class Admin extends React.Component {
   };
   getRoutes = routes => {
     return routes.map((prop, key) => {
-      if (prop.layout === "/admin") {
+      if (prop.layout === "/mentoria-kyrius-aulas/admin") {
         return (
           <Route
             path={prop.layout + prop.path}
@@ -115,7 +115,7 @@ class Admin extends React.Component {
             routes={routes}
             bgColor={this.state.backgroundColor}
             logo={{
-              outterLink: "https://oseasjs.github.io/mentoria-kyrius-aulas",
+              outterLink: "/mentoria-kyrius-aulas",
               text: "Kyrius",
               imgSrc: logo
             }}
@@ -134,7 +134,7 @@ class Admin extends React.Component {
             />
             <Switch>
               {this.getRoutes(routes)}
-              <Redirect from="*" to="/admin/environment"/>
+              <Redirect from="*" to="/mentoria-kyrius-aulas/admin/environment"/>
             </Switch>
             {// we don't want the Footer to be rendered on map page
             this.props.location.pathname.indexOf("maps") !== -1 ? null : (

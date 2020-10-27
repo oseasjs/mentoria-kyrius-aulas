@@ -31,13 +31,13 @@ class Footer extends React.Component {
         <Container fluid>
           <Nav>
             <NavItem>
-              <NavLink href="https://reactjs.org/"><SiReact /></NavLink>
+              <NavLink href="https://reactjs.org/" target="_blank"><SiReact /></NavLink>
             </NavItem>
             <NavItem>
-              <NavLink href="https://nodejs.org"><SiNodeDotJs /></NavLink>              
+              <NavLink href="https://nodejs.org" target="_blank"><SiNodeDotJs /></NavLink>              
             </NavItem>            
             <NavItem>
-              <NavLink href="https://pages.github.com/"><SiGithubactions /></NavLink>              
+              <NavLink href="https://pages.github.com/" target="_blank"><SiGithubactions /></NavLink>              
             </NavItem>            
           </Nav>
           <div className="copyright">

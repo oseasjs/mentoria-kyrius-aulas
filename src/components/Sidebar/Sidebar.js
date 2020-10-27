@@ -66,7 +66,7 @@ class Sidebar extends React.Component {
           <a
             href={logo.outterLink}
             className="simple-text logo-mini"
-            target="_blank"
+            
             onClick={this.props.toggleSidebar}
           >
             <div className="logo-img">
@@ -78,7 +78,6 @@ class Sidebar extends React.Component {
           <a
             href={logo.outterLink}
             className="simple-text logo-normal"
-            target="_blank"
             onClick={this.props.toggleSidebar}
           >
             {logo.text}
@@ -144,18 +143,21 @@ class Sidebar extends React.Component {
               <div style={{"margin-left": "15px", "width": "90%"}}>
                 <div style={{"float": "left", "margin-right": "15px"}}>
                   <a href="https://www.linkedin.com/company/kyrius-mentoria" 
+                    target="_blank"
                     style={{"color":"white"}}>
                     <SiLinkedin />
                   </a>
                 </div>
                 <div style={{"float": "left", "margin-right": "15px"}}>
                   <a href="https://github.com/oseasjs/kyrius" 
+                    target="_blank"
                     style={{"color":"white"}}>
                     <SiGithub />
                   </a>
                 </div>
                 <div>
                   <a href="https://medium.com/@oseasjs/mentoria-desenvolvedor-java-parte-1-9f2b58e51aaa" 
+                    target="_blank"
                     style={{"color":"white"}}>
                     <SiMedium />
                   </a>

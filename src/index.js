@@ -30,11 +30,11 @@ import "assets/css/nucleo-icons.css";
 const hist = createBrowserHistory();
 
 ReactDOM.render(
-  <Router history={hist}>
+  <Router history={hist} >
     <Switch>
-      <Route path="/admin" render={props => <AdminLayout {...props} />} />
-      <Route path="/rtl" render={props => <RTLLayout {...props} />} />
-      <Redirect from="/" to="/admin/environment" />
+      <Route path="/mentoria-kyrius-aulas/admin" render={props => <AdminLayout {...props} />} />
+      <Route path="/mentoria-kyrius-aulas/*" render={props => <AdminLayout {...props} />} />
+      <Redirect from="/" to="/mentoria-kyrius-aulas/admin/environment" />
     </Switch>
   </Router>,
   document.getElementById("root")

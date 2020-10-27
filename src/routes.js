@@ -21,11 +21,11 @@ import PageVideoView from "views/PageVideoView.js";
 var routes = [
   {
     path: "/environment",
-    name: "Configuração",
+    name: "Ambiente",
     rtlName: "",
     icon: "tim-icons icon-laptop",
-    component: Environment,
-    layout: "/admin"
+    component: PageVideoView,
+    layout: "/mentoria-kyrius-aulas/admin"
   },
   {
     path: "/beginning",
@@ -33,7 +33,7 @@ var routes = [
     rtlName: "",
     icon: "tim-icons icon-satisfied",
     component: PageVideoView,
-    layout: "/admin"
+    layout: "/mentoria-kyrius-aulas/admin"
   },
   {
     path: "/basic",
@@ -41,7 +41,7 @@ var routes = [
     rtlName: "",
     icon: "tim-icons icon-send",
     component: PageVideoView,
-    layout: "/admin"
+    layout: "/mentoria-kyrius-aulas/admin"
   },
   {
     path: "/java",
@@ -49,7 +49,7 @@ var routes = [
     rtlName: "",
     icon: "tim-icons icon-key-25",
     component: PageVideoView,
-    layout: "/admin"
+    layout: "/mentoria-kyrius-aulas/admin"
   },
   {
     path: "/intermadiate-know",
@@ -57,7 +57,7 @@ var routes = [
     rtlName: "",
     icon: "tim-icons icon-components",
     component: PageVideoView,
-    layout: "/admin"
+    layout: "/mentoria-kyrius-aulas/admin"
   },
   {
     path: "/advanced",
@@ -65,7 +65,7 @@ var routes = [
     rtlName: "",
     icon: "tim-icons icon-spaceship",
     component: PageVideoView,
-    layout: "/admin"
+    layout: "/mentoria-kyrius-aulas/admin"
   },
   {
     path: "/career",
@@ -73,7 +73,7 @@ var routes = [
     rtlName: "",
     icon: "tim-icons icon-trophy",
     component: PageVideoView,
-    layout: "/admin"
+    layout: "/mentoria-kyrius-aulas/admin"
   },
   {
     path: "/slack",
@@ -81,7 +81,7 @@ var routes = [
     rtlName: "",
     icon: "tim-icons icon-chat-33",
     component: PageVideoView,
-    layout: "/admin"
+    layout: "/mentoria-kyrius-aulas/admin"
   },
   {
     path: "/trello",
@@ -89,15 +89,7 @@ var routes = [
     rtlName: "",
     icon: "tim-icons icon-pin",
     component: PageVideoView,
-    layout: "/admin"
-  },
-  {
-    path: "/icons",
-    name: "Icons",
-    rtlName: "الرموز",
-    icon: "tim-icons icon-atom",
-    component: PageVideoView,
-    layout: "/admin"
+    layout: "/mentoria-kyrius-aulas/admin"
   },
   
 
