@@ -1,6 +1,7 @@
 [
   {
     "videoId": "c_HvmKl2j5w",
+    "type":"video",
     "title": "Criação de Conta no Gmail",
     "avatarUrl": "https://yt3.ggpht.com/a/AATXAJy216cO90bKYKMMZ2ii_-bJq7HmNVVNeAeWQdAD=s68-c-k-c0x00ffffff-no-rj",
     "channelUrl": "https://www.youtube.com/channel/UCp7TZTvJlQLpR09ghuYWfSg",
@@ -19,6 +20,7 @@
   }
   ,{
     "videoId": "hvdaCbQYAoo",
+    "type":"video",
     "title": "Configuração da Bios para aceitar boot pela USB",
     "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzxjowJickB4q7ElP0lalylxnZa0K9ff9IVr_sm3A=s68-c-k-c0x00ffffff-no-rj",
     "channelUrl": "https://www.youtube.com/channel/UCE0Wgv2k4NGACpf7RYv--cg",
@@ -29,6 +31,7 @@
   }
   ,{
     "videoId": "LfWwncixwNI",
+    "type":"video",
     "title": "Instalando a Imagem do Ubuntu em um Pen Drive",
     "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzxjowJickB4q7ElP0lalylxnZa0K9ff9IVr_sm3A=s68-c-k-c0x00ffffff-no-rj",
     "channelUrl": "https://www.youtube.com/channel/UCE0Wgv2k4NGACpf7RYv--cg",
@@ -39,6 +42,7 @@
   }
   ,{
     "videoId": "mLftT7Q25mo",
+    "type":"video",
     "title": "Pen Drive pronto, agora é só instalar o Ubuntu",
     "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzxjowJickB4q7ElP0lalylxnZa0K9ff9IVr_sm3A=s68-c-k-c0x00ffffff-no-rj",
     "channelName": "Techno John",
@@ -49,6 +53,7 @@
   }
   ,{
     "videoId": "Vbd7K3FIhHI",
+    "type":"video",
     "title": "Instalação Chrome",
     "avatarUrl": "https://yt3.ggpht.com/a/AATXAJxPeXbfHZxkLEoTVV66dx614nyE_0ZB43hs7OeuQg=s68-c-k-c0x00ffffff-no-rj",
     "channelName": "Diolinux",
@@ -59,6 +64,7 @@
   }
   ,{
     "videoId": "w0sANDwLUcA",
+    "type":"video",
     "title": "Instalação do Java e o Maven",
     "avatarUrl": "https://yt3.ggpht.com/a/AATXAJyklTozwMUP7AWTjREmh5x8A8uxaRRVcOVOUtuZzw=s68-c-k-c0x00ffffff-no-rj",
     "channelName": "Luis Fernandes",
@@ -69,6 +75,7 @@
   }
   ,{
     "videoId": "qJSIh_Fy2FI",
+    "type":"video",
     "title": "Instalação do IntelliJ Community",
     "avatarUrl": "https://yt3.ggpht.com/a/AATXAJxIQfWsCodGON2AfZ65mZ7Gupdyrlm3cGygi7SPHA=s68-c-k-c0x00ffffff-no-rj",
     "channelName": "Marcos Azevedo",
@@ -79,6 +86,7 @@
   }
   ,{
     "videoId": "gEyu8nnDYyo",
+    "type":"video",
     "title": "Instalação do Postman",
     "avatarUrl": "https://yt3.ggpht.com/a/AATXAJw5l_EaL9iIaK0LDwOHHhRwIy5v6kZCt30Gzg1eyg=s68-c-k-c0x00ffffff-no-rj",
     "channelName": "Ceos3c",
@@ -89,6 +97,7 @@
   }
   ,{
     "videoId": "qJSIh_Fy2FI",
+    "type":"video",
     "title": "Instalação do Docker e Docker-Compose",
     "avatarUrl": "https://yt3.ggpht.com/a/AATXAJxIQfWsCodGON2AfZ65mZ7Gupdyrlm3cGygi7SPHA=s68-c-k-c0x00ffffff-no-rj",
     "channelName": "Marcos Azevedo",
@@ -99,6 +108,7 @@
   }
   ,{
     "videoId": "YKjPi7Td3ZQ",
+    "type":"video",
     "title": "Instalação do Git e criação de uma conta no Github",
     "avatarUrl": "https://yt3.ggpht.com/a/AATXAJxnWiJnObMVW98mf5KU6FuIm1HYQyR56iq07w7crw=s68-c-k-c0x00ffffff-no-rj",
     "channelName": "Professor José de Assis",
@@ -109,6 +119,7 @@
   }
   ,{
     "videoId": "WmgI3urNSb0",
+    "type":"video",
     "title": "Aprendendo a usar o Duolingo para dar uma melhorada no Inglês",
     "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzZwCTcWAfT-qaM3zzrDsqzhSv8zh9Es62zo1Op=s68-c-k-c0x00ffffff-no-rj",
     "channelName": "Lucas Gilbert",
@@ -119,6 +130,7 @@
   }
   ,{
     "videoId": "EPbmAgJpiQI",
+    "type":"video",
     "title": "Ativando legendas em Português em vídeos do YouTube",
     "avatarUrl": "https://yt3.ggpht.com/a/AATXAJxXIGevKS-eQak_CbzaXiq2H9vVdzF3UDN3Npq8piM=s68-c-k-c0x00ffffff-no-rj",
     "channelName": "Jefferson Meneses",
@@ -129,6 +141,7 @@
   }
   ,{
     "videoId": "DOSGFUeG3jo",
+    "type":"video",
     "title": "Easy man: no seu ritmo, no seu tempo",
     "avatarUrl": "https://yt3.ggpht.com/a/AATXAJyhg-2_7Bp4g0w7deB85gWxzX72YJdd0WjSU7Ve3Q=s68-c-k-c0x00ffffff-no-rj",
     "channelName": "Amigoscode",
