@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mentoria-kyrius-aulas/precache-manifest.72fe0fdf66552a14c7c0d17656601a7b.js"
+  "/mentoria-kyrius-aulas/precache-manifest.0ae36340827e0f0b2630fc29fd5f4513.js"
 );
 
 self.addEventListener('message', (event) => {
