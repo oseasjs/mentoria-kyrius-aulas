@@ -100,64 +100,64 @@ var routes = [
   
 
 
-
-  // {
-  //   path: "/dashboard",
-  //   name: "Dashboard",
-  //   rtlName: "لوحة القيادة",
-  //   icon: "tim-icons icon-chart-pie-36",
-  //   component: Dashboard,
-  //   layout: "/mentoria-kyrius-aulas/admin"
-  // },
-  // {
-  //   path: "/icons",
-  //   name: "Icons",
-  //   rtlName: "الرموز",
-  //   icon: "tim-icons icon-atom",
-  //   component: Icons,
-  //   layout: "/mentoria-kyrius-aulas/admin"
-  // },
-  // {
-  //   path: "/map",
-  //   name: "Map",
-  //   rtlName: "خرائط",
-  //   icon: "tim-icons icon-pin",
-  //   component: Map,
-  //   layout: "/mentoria-kyrius-aulas/admin"
-  // },
-  // {
-  //   path: "/notifications",
-  //   name: "Notifications",
-  //   rtlName: "إخطارات",
-  //   icon: "tim-icons icon-bell-55",
-  //   component: Notifications,
-  //   layout: "/mentoria-kyrius-aulas/admin"
-  // },
-  // {
-  //   path: "/user-profile",
-  //   name: "User Profile",
-  //   rtlName: "ملف تعريفي للمستخدم",
-  //   icon: "tim-icons icon-single-02",
-  //   component: UserProfile,
-  //   layout: "/mentoria-kyrius-aulas/admin"
-  // },
-  // {
-  //   path: "/tables",
-  //   name: "Table List",
-  //   rtlName: "قائمة الجدول",
-  //   icon: "tim-icons icon-puzzle-10",
-  //   component: TableList,
-  //   layout: "/mentoria-kyrius-aulas/admin"
-  // },
-  // {
-  //   path: "/typography",
-  //   name: "Typography",
-  //   rtlName: "طباعة",
-  //   icon: "tim-icons icon-align-center",
-  //   component: Typography,
-  //   layout: "/mentoria-kyrius-aulas/admin"
-  // },
-
+  /*
+  {
+    path: "/dashboard",
+    name: "Dashboard",
+    rtlName: "لوحة القيادة",
+    icon: "tim-icons icon-chart-pie-36",
+    component: Dashboard,
+    layout: "/mentoria-kyrius-aulas/admin"
+  },
+  {
+    path: "/icons",
+    name: "Icons",
+    rtlName: "الرموز",
+    icon: "tim-icons icon-atom",
+    component: Icons,
+    layout: "/mentoria-kyrius-aulas/admin"
+  },
+  {
+    path: "/map",
+    name: "Map",
+    rtlName: "خرائط",
+    icon: "tim-icons icon-pin",
+    component: Map,
+    layout: "/mentoria-kyrius-aulas/admin"
+  },
+  {
+    path: "/notifications",
+    name: "Notifications",
+    rtlName: "إخطارات",
+    icon: "tim-icons icon-bell-55",
+    component: Notifications,
+    layout: "/mentoria-kyrius-aulas/admin"
+  },
+  {
+    path: "/user-profile",
+    name: "User Profile",
+    rtlName: "ملف تعريفي للمستخدم",
+    icon: "tim-icons icon-single-02",
+    component: UserProfile,
+    layout: "/mentoria-kyrius-aulas/admin"
+  },
+  {
+    path: "/tables",
+    name: "Table List",
+    rtlName: "قائمة الجدول",
+    icon: "tim-icons icon-puzzle-10",
+    component: TableList,
+    layout: "/mentoria-kyrius-aulas/admin"
+  },
+  {
+    path: "/typography",
+    name: "Typography",
+    rtlName: "طباعة",
+    icon: "tim-icons icon-align-center",
+    component: Typography,
+    layout: "/mentoria-kyrius-aulas/admin"
+  },
+  */
   
   
 ];
