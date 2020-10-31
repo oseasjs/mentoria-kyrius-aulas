@@ -10,6 +10,7 @@
       "channelName": "Amigoscode",
       "channelUrl": "https://www.youtube.com/channel/UC2KfmYEM4KCuA1ZurravgYw",
       "iconType":"youtube",
+      "duration": "02:35:00",
       "descriptionCheckList": [
         {"description": "Conhecer bem a ferramenta de trabalho é fundamental"}
       ]
@@ -22,6 +23,7 @@
       "channelName": "Rakshith Vasudev",
       "channelUrl": "https://www.youtube.com/channel/UCCfS00z2jVV4tS3xqsGjvrw",
       "iconType":"youtube",
+      "duration": "09:40",
       "descriptionCheckList": [
         {"description": "Classe"},
         {"description": "Atributos"},
@@ -42,6 +44,7 @@
       "channelName": "Rakshith Vasudev",
       "channelUrl": "https://www.youtube.com/channel/UCCfS00z2jVV4tS3xqsGjvrw",
       "iconType":"youtube",
+      "duration": "04:20",
       "descriptionCheckList": [
         {"description": "Métodos"}
       ]
@@ -54,6 +57,7 @@
       "channelName": "Rakshith Vasudev",
       "channelUrl": "https://www.youtube.com/channel/UCCfS00z2jVV4tS3xqsGjvrw",
       "iconType":"youtube",
+      "duration": "11:05",
       "descriptionCheckList": [
         {"description": "Construtores e o uso do this"}
       ]
@@ -66,6 +70,7 @@
       "channelName": "Rakshith Vasudev",
       "channelUrl": "https://www.youtube.com/channel/UCCfS00z2jVV4tS3xqsGjvrw",
       "iconType":"youtube",
+      "duration": "16:25",
       "descriptionCheckList": [
         {"description": "Múltiplos Construtores"}
       ]
@@ -78,6 +83,7 @@
       "channelName": "Rakshith Vasudev",
       "channelUrl": "https://www.youtube.com/channel/UCCfS00z2jVV4tS3xqsGjvrw",
       "iconType":"youtube",
+      "duration": "24:05",
       "descriptionCheckList": [
         {"description": "Public"},
         {"description": "Private"},
@@ -93,6 +99,7 @@
       "channelName": "Rakshith Vasudev",
       "channelUrl": "https://www.youtube.com/channel/UCCfS00z2jVV4tS3xqsGjvrw",
       "iconType":"youtube",
+      "duration": "16:00",
       "descriptionCheckList": [
         {"description": "Herança e o uso do super"}
       ]
@@ -105,6 +112,7 @@
       "channelName": "Rakshith Vasudev",
       "channelUrl": "https://www.youtube.com/channel/UCCfS00z2jVV4tS3xqsGjvrw",
       "iconType":"youtube",
+      "duration": "07:00",
       "descriptionCheckList": [
         {"description": "Construtores e o uso do super"}
       ]
@@ -117,6 +125,7 @@
       "channelName": "Rakshith Vasudev",
       "channelUrl": "https://www.youtube.com/channel/UCCfS00z2jVV4tS3xqsGjvrw",
       "iconType":"youtube",
+      "duration": "15:40",
       "descriptionCheckList": [
         {"description": "Interfaces"}
       ]
@@ -129,6 +138,7 @@
       "channelName": "Rakshith Vasudev",
       "channelUrl": "https://www.youtube.com/channel/UCCfS00z2jVV4tS3xqsGjvrw",
       "iconType":"youtube",
+      "duration": "14:00",
       "descriptionCheckList": [
         {"description": "Classes Abstratas"}
       ]
@@ -141,6 +151,7 @@
       "channelName": "Rakshith Vasudev",
       "channelUrl": "https://www.youtube.com/channel/UCCfS00z2jVV4tS3xqsGjvrw",
       "iconType":"youtube",
+      "duration": "14:45",
       "descriptionCheckList": [
         {"description": "Arrays e Loops"}
       ]
@@ -153,6 +164,7 @@
       "channelName": "Rakshith Vasudev",
       "channelUrl": "https://www.youtube.com/channel/UCCfS00z2jVV4tS3xqsGjvrw",
       "iconType":"youtube",
+      "duration": "06:20",
       "descriptionCheckList": [
         {"description": "ArrayList e Foreach"}
       ]
@@ -165,6 +177,7 @@
       "channelName": "Rakshith Vasudev",
       "channelUrl": "https://www.youtube.com/channel/UCCfS00z2jVV4tS3xqsGjvrw",
       "iconType":"youtube",
+      "duration": "10:55",
       "descriptionCheckList": [
         {"description": "Ordenação de dados usando Comparator"}
       ]
@@ -177,6 +190,7 @@
       "channelName": "Rakshith Vasudev",
       "channelUrl": "https://www.youtube.com/channel/UCCfS00z2jVV4tS3xqsGjvrw",
       "iconType":"youtube",
+      "duration": "01:50:00",
       "descriptionCheckList": [
         {"description": "Sistema de Gestão de Escola com OO"}
       ]
@@ -189,6 +203,7 @@
       "channelName": "Tech With Tim",
       "channelUrl": "https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg",
       "iconType":"youtube",
+      "duration": "10:55",
       "descriptionCheckList": [
         {"description": "Enums e condições (if, else, if else)"}
       ]
@@ -201,6 +216,7 @@
       "channelName": "DevDojo",
       "channelUrl": "https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g",
       "iconType":"youtube",
+      "duration": "13:30",
       "descriptionCheckList": [
         {"description": "Enums"},
         {"description": "Condições (if, else, if else)"}
@@ -214,6 +230,7 @@
       "channelName": "Sammy Hegab",
       "channelUrl": "https://www.youtube.com/channel/UC4HKInLNA3_eW0_KyjjrlTw",
       "iconType":"youtube",
+      "duration": "13:30",
       "descriptionCheckList": [
         {"description": "Herança"},
         {"description": "Polimorfismo"},
@@ -228,6 +245,7 @@
       "channelName": "Amigoscode",
       "channelUrl": "https://www.youtube.com/channel/UC2KfmYEM4KCuA1ZurravgYw",
       "iconType":"youtube",
+      "duration": "02:22:00",
       "descriptionCheckList": [
         {"description": "Introduzido a partir do Java 8"}
       ]
@@ -240,6 +258,7 @@
       "channelName": "Marcos Azevedo",
       "channelUrl": "https://www.youtube.com/channel/UC9l968_q3tSQIRROvJPesow",
       "iconType":"youtube",
+      "duration": "11:30",
       "descriptionCheckList": [
         {"description": "Código bom é código limpo"}
       ]
@@ -252,6 +271,7 @@
       "channelName": "The B1M",
       "channelUrl": "https://www.youtube.com/channel/UC6n8I1UDTKP1IWjQMg6_TwA",
       "iconType":"youtube",
+      "duration": "11:30",
       "descriptionCheckList": [
         {"description": "Para dar uma relaxada"}
       ]
@@ -264,6 +284,7 @@
       "channelName": "DevDojo",
       "channelUrl": "https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g",
       "iconType":"youtube",
+      "duration": "00:00:00",
       "descriptionCheckList": [
         {"description": "Chegou até aqui e quer um pouco mais ?"},
         {"description": "Separei uma playlist de mais exercícios de orientação a objeto com Java para você se divertir."},

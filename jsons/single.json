@@ -1,0 +1,82 @@
+{
+  "title": "Teste do Nov Layout dos vídeos",
+  "description": "Previsão de conclusão: 3 dias",
+  "items": [
+    {
+      "id": "c_HvmKl2j5w",
+      "type":"video",
+      "title": "Criação de Conta no Gmail",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJy216cO90bKYKMMZ2ii_-bJq7HmNVVNeAeWQdAD=s68-c-k-c0x00ffffff-no-rj",
+      "channelUrl": "https://www.youtube.com/channel/UCp7TZTvJlQLpR09ghuYWfSg",
+      "channelName": "Luana Franco",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Email"},
+        {"description": "Hangouts"},
+        {"description": "Calendário"},
+        {"description": "Drive na nuvem"},
+        {"description": "Apresentações"}, 
+        {"description": "Documentos"},
+        {"description": "Planilhas"}, 
+        {"description": "Fotos"},
+        {"description": "OpenID"}
+      ]
+    }
+    ,{
+      "id": "yefmcX57Eyg",
+      "type":"video",
+      "title": "Explorando o IntelliJ",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJyhg-2_7Bp4g0w7deB85gWxzX72YJdd0WjSU7Ve3Q=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Amigoscode",
+      "channelUrl": "https://www.youtube.com/channel/UC2KfmYEM4KCuA1ZurravgYw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Conhecer bem a ferramenta de trabalho é fundamental"}
+      ]
+    }
+    ,{
+      "id": "CxlHy4JC0SQ",
+      "type":"video",
+      "title": "Conhecimentos Básicos da linguagem Java",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzgxxSqQwIRWTC3-KOzBW2sHHA2XKDSEDybxXHt=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Rakshith Vasudev",
+      "channelUrl": "https://www.youtube.com/channel/UCCfS00z2jVV4tS3xqsGjvrw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Classe"},
+        {"description": "Atributos"},
+        {"description": "Métodos"},
+        {"description": "Construtores"},
+        {"description": "Modificadores de Acesso"},
+        {"description": "Interfaces"},
+        {"description": "Enums"},
+        {"description": "Condições"},
+        {"description": "Repetições"}
+      ]
+    }
+    ,{
+      "id": "yE3JWhAb_mY",
+      "type":"video",
+      "title": "Introdução à Orientação à Objeto",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzgxxSqQwIRWTC3-KOzBW2sHHA2XKDSEDybxXHt=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Rakshith Vasudev",
+      "channelUrl": "https://www.youtube.com/channel/UCCfS00z2jVV4tS3xqsGjvrw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Métodos"}
+      ]
+    }
+    ,{
+      "id": "wYV55DMFkXA",
+      "type":"video",
+      "title": "Introdução à Classes Java",
+      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzgxxSqQwIRWTC3-KOzBW2sHHA2XKDSEDybxXHt=s68-c-k-c0x00ffffff-no-rj",
+      "channelName": "Rakshith Vasudev",
+      "channelUrl": "https://www.youtube.com/channel/UCCfS00z2jVV4tS3xqsGjvrw",
+      "iconType":"youtube",
+      "descriptionCheckList": [
+        {"description": "Construtores e o uso do this"}
+      ]
+    }
+  ]
+}

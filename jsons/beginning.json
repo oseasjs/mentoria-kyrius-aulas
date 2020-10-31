@@ -10,6 +10,7 @@
       "channelName": "MindMaster",
       "channelUrl": "https://www.youtube.com/channel/UCGcJKtRkeWAbForW4UXmLtg",
       "iconType":"youtube",
+      "duration": "09:05",
       "descriptionCheckList": [
         {"description": "Temos um board do Trello te esperando, confere lá!"}
       ]
@@ -22,6 +23,7 @@
       "channelName": "Amigoscode",
       "channelUrl": "https://www.youtube.com/channel/UC2KfmYEM4KCuA1ZurravgYw",
       "iconType":"youtube",
+      "duration": "13:15",
       "descriptionCheckList": [
         {"description": "A primeira aplicação a gente nunca esquece"},
         {"description": "Inglês ainda fraco? Ative a legenda com tradução automática e diminua a velocidade do vídeo."}
@@ -35,6 +37,7 @@
       "channelName": "Moisés Abraão",
       "channelUrl": "https://www.youtube.com/channel/UCHwST4CdPmR8Xq6CDFgjzOw",
       "iconType":"youtube",
+      "duration": "10:45",
       "descriptionCheckList": [
         {"description": "Lugar de código é na nuvem"},
         {"description": "Assim, consigo revisar ele mesmo de longe ;-)"}
@@ -48,6 +51,7 @@
       "channelName": "Edward Sa",
       "channelUrl": "https://www.youtube.com/channel/UCCUw_xsps3VgtqLYR8vBSXw",
       "iconType":"youtube",
+      "duration": "07:40",
       "descriptionCheckList": [
         {"description": "Tirando a quantidade de comida que o cara comeu, se liga na stack tecnológica que o cara usa: "},
         {"description": "Slack"},
