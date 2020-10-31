@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/mentoria-kyrius-aulas/static/css/main.fbcbb08d.chunk.css",
-    "main.js": "/mentoria-kyrius-aulas/static/js/main.252f0d50.chunk.js",
-    "main.js.map": "/mentoria-kyrius-aulas/static/js/main.252f0d50.chunk.js.map",
+    "main.js": "/mentoria-kyrius-aulas/static/js/main.a7b7eeef.chunk.js",
+    "main.js.map": "/mentoria-kyrius-aulas/static/js/main.a7b7eeef.chunk.js.map",
     "runtime-main.js": "/mentoria-kyrius-aulas/static/js/runtime-main.d5cc6f0d.js",
     "runtime-main.js.map": "/mentoria-kyrius-aulas/static/js/runtime-main.d5cc6f0d.js.map",
     "static/js/2.2c4822b6.chunk.js": "/mentoria-kyrius-aulas/static/js/2.2c4822b6.chunk.js",
     "static/js/2.2c4822b6.chunk.js.map": "/mentoria-kyrius-aulas/static/js/2.2c4822b6.chunk.js.map",
     "index.html": "/mentoria-kyrius-aulas/index.html",
-    "precache-manifest.0ae36340827e0f0b2630fc29fd5f4513.js": "/mentoria-kyrius-aulas/precache-manifest.0ae36340827e0f0b2630fc29fd5f4513.js",
+    "precache-manifest.2051d66d74c398a0806203f0ca2c15e6.js": "/mentoria-kyrius-aulas/precache-manifest.2051d66d74c398a0806203f0ca2c15e6.js",
     "service-worker.js": "/mentoria-kyrius-aulas/service-worker.js",
     "static/css/main.fbcbb08d.chunk.css.map": "/mentoria-kyrius-aulas/static/css/main.fbcbb08d.chunk.css.map",
     "static/js/2.2c4822b6.chunk.js.LICENSE.txt": "/mentoria-kyrius-aulas/static/js/2.2c4822b6.chunk.js.LICENSE.txt",
-    "static/js/main.252f0d50.chunk.js.LICENSE.txt": "/mentoria-kyrius-aulas/static/js/main.252f0d50.chunk.js.LICENSE.txt",
+    "static/js/main.a7b7eeef.chunk.js.LICENSE.txt": "/mentoria-kyrius-aulas/static/js/main.a7b7eeef.chunk.js.LICENSE.txt",
     "static/media/anime3.png": "/mentoria-kyrius-aulas/static/media/anime3.bd6820f1.png",
     "static/media/emilyz.jpg": "/mentoria-kyrius-aulas/static/media/emilyz.9fcf69e5.jpg",
     "static/media/nucleo-icons.css": "/mentoria-kyrius-aulas/static/media/nucleo.f0b489a5.woff",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.d5cc6f0d.js",
     "static/js/2.2c4822b6.chunk.js",
     "static/css/main.fbcbb08d.chunk.css",
-    "static/js/main.252f0d50.chunk.js"
+    "static/js/main.a7b7eeef.chunk.js"
   ]
 }
