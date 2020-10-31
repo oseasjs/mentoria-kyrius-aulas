@@ -17,7 +17,7 @@
 */
 /*eslint-disable*/
 
-import { SiLinkedin, SiGithub, SiMedium } from 'react-icons/si';
+import { SiLinkedin, SiGithub, SiMedium, SiTrello, SiSlack } from 'react-icons/si';
 import React from "react";
 import { NavLink, Link } from "react-router-dom";
 // nodejs library to set properties for components
@@ -27,7 +27,7 @@ import { PropTypes } from "prop-types";
 import PerfectScrollbar from "perfect-scrollbar";
 
 // reactstrap components
-import { Nav, NavLink as ReactstrapNavLink } from "reactstrap";
+import { Nav } from "reactstrap";
 
 var ps;
 
@@ -56,6 +56,30 @@ class Sidebar extends React.Component {
   linkOnClick = () => {
     document.documentElement.classList.remove("nav-open");
   };
+  renderIcon = (_prop) => {
+
+    // console.log('### renderIcon');
+
+    return (<i className={""+_prop.icon+""} />);
+
+
+    // if (_prop.reactIcon) {
+
+    //   if (_prop.reactIcon === 'trello') {
+    //     return (<SiTrello />);
+    //   }
+    //   if (_prop.reactIcon === 'slack') {
+    //     return (<SiSlack />);
+    //   }
+
+    //   return null;
+      
+    // }
+    // else {
+    //   return (_prop.reactIcon);
+    // }
+
+  }
   render() {
     const { bgColor, routes, rtlActive, logo } = this.props;
     let logoImg = null;
@@ -132,8 +156,11 @@ class Sidebar extends React.Component {
                     activeClassName="active"
                     onClick={this.props.toggleSidebar}
                   >
-                    <i className={prop.icon} />
-                    <p>{rtlActive ? prop.rtlName : prop.name}</p>
+                    {
+                      prop.icon === 'slack' ? <i><SiSlack /></i> : prop.icon === 'trello' ? <i><SiTrello /></i> : <i className={prop.icon} />
+                    }
+                    
+                    <p>{prop.name}</p>
                   </NavLink>
                 </li>
               );
@@ -164,8 +191,8 @@ class Sidebar extends React.Component {
                 </div>
               </div>              
             </li>
-            
-          </Nav>
+                        
+          </Nav>          
         </div>
       </div>
     );

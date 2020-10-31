@@ -10,6 +10,7 @@
       "channelName": "Diolinux",
       "channelUrl": "https://www.youtube.com/channel/UCEf5U1dB5a2e2S-XUlnhxSA",
       "iconType":"youtube",
+      "duration": "16:45",
       "descriptionCheckList": [
         {"description": "Para dar uma força com os comandos Linux"}
       ]
@@ -22,6 +23,7 @@
       "channelName": "LINUXtips",
       "channelUrl": "https://www.youtube.com/channel/UCJnKVGmXRXrH49Tvrx5X0Sw",
       "iconType":"youtube",
+      "duration": "22:48",
       "descriptionCheckList": [
         {"description": "Entendendo um pouco melhor o gerenciamento de imagens com o mestre. Vái!"}
       ]
@@ -34,6 +36,7 @@
       "channelName": "yawtecnologia",
       "channelUrl": "https://www.youtube.com/channel/UCVweFFaqVwGO-3x9NbI_rUA",
       "iconType":"youtube",
+      "duration": "24:55",
       "descriptionCheckList": [
         {"description": "Para gerenciar dependências e versões, não tem melhor"}
       ]
@@ -46,6 +49,7 @@
       "channelName": "Dev Samurai",
       "channelUrl": "https://www.youtube.com/channel/UC-lHCBqKEtnXA0SBtdOP0bw",
       "iconType":"youtube",
+      "duration": "22:20",
       "descriptionCheckList": [
         {"description": "Pra entender melhor o gerenciamento de código fonte"}
       ]
@@ -58,6 +62,7 @@
       "channelName": "Canal TI",
       "channelUrl": "https://www.youtube.com/channel/UCEQ-nGDGFupHyta90z6hVNQ",
       "iconType":"youtube",
+      "duration": "03:40",
       "descriptionCheckList": [
         {"description": "Explicação curta e objetiva do padrão MVC"}
       ]
@@ -70,6 +75,7 @@
       "channelName": "Alura Cursos Online",
       "channelUrl": "https://www.youtube.com/channel/UCo7EHzKF2zDFWszw7Dg4mPw",
       "iconType":"youtube",
+      "duration": "08:20",
       "descriptionCheckList": [
         {"description": "Ótima explicação sobre Spring feita pela galera nota 1000 da Alura"}
       ]
@@ -82,6 +88,7 @@
       "channelName": "Amigoscode",
       "channelUrl": "https://www.youtube.com/channel/UC2KfmYEM4KCuA1ZurravgYw",
       "iconType":"youtube",
+      "duration": "14:15",
       "descriptionCheckList": [
         {"description": "Ainda está rateando no inglês, não esqueça de ativar a legenda"}
       ]

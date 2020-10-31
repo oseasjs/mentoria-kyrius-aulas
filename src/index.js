@@ -21,7 +21,6 @@ import { createBrowserHistory } from "history";
 import { Router, Route, Switch, Redirect } from "react-router-dom";
 
 import AdminLayout from "layouts/Admin/Admin.js";
-import RTLLayout from "layouts/RTL/RTL.js";
 
 import "assets/scss/black-dashboard-react.scss";
 import "assets/demo/demo.css";
@@ -32,9 +31,10 @@ const hist = createBrowserHistory();
 ReactDOM.render(
   <Router history={hist} >
     <Switch>
-      <Route path="/mentoria-kyrius-aulas/admin" render={props => <AdminLayout {...props} />} />
       <Route path="/mentoria-kyrius-aulas/*" render={props => <AdminLayout {...props} />} />
       <Redirect from="/" to="/mentoria-kyrius-aulas/admin/environment" />
+      <Redirect from="/admin/java" to="/mentoria-kyrius-aulas/admin/java" />
+      <Route path="/mentoria-kyrius-aulas/admin/basic" render={props => <AdminLayout {...props} />} />
     </Switch>
   </Router>,
   document.getElementById("root")

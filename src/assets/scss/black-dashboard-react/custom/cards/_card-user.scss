@@ -50,8 +50,8 @@
     }
 
     .avatar {
-      width: 104px;
-      height: 104px;
+      width: 74px;
+      height: 74px;
       border: 5px solid lighten($black,5%);
       border-bottom-color: $transparent-bg;
       background-color: $transparent-bg;
@@ -59,7 +59,7 @@
     }
 
     .card-body {
-        min-height: 240px;
+        min-height: 360px;
     }
 
     hr {
@@ -72,6 +72,12 @@
     }
 
     .card-description {
-      margin-top: 30px;
+        margin-top: 30px;
+    }
+
+    .card-youtube-video {
+      font-size: 5rem;
+      cursor: pointer;
+      color: #ba54f5;
     }
 }

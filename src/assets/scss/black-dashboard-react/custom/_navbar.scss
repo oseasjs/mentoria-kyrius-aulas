@@ -62,7 +62,7 @@
     }
 
     .navbar-text, .navbar-brand{
-      color: $black;
+      color: $black;      
     }
 
     .form-control {
@@ -103,11 +103,11 @@
     position: fixed;
     padding-top: .3125rem;
     padding-bottom: .3125rem;
-    color: $white;
+    color: rgba(255, 255, 255, 0.8);
     margin-left: 17px;
     margin-top: 3px;
-    text-transform: uppercase;
     font-size: $font-paragraph;
+    font-weight: bold;
   }
 
   .navbar-toggle button:focus, .navbar-toggler{
@@ -312,7 +312,7 @@
 
       .navbar-brand{
         margin-left: 20px;
-        position: relative;
+        position: relative;        
       }
   }
 

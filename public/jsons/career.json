@@ -10,6 +10,7 @@
       "channelName": "Fabio Akita",
       "channelUrl": "https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ",
       "iconType":"youtube",
+      "duration": "42:05",
       "descriptionCheckList": [
         {"description": "Formação e níveis da carreira"},
         {"description": "Estagiário"},
@@ -30,6 +31,7 @@
       "channelName": "Fabio Akita",
       "channelUrl": "https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ",
       "iconType":"youtube",
+      "duration": "21:25",
       "descriptionCheckList": [
         {"description": "Varios tipos de empresa, projetos e remuneração"}
       ]
@@ -42,6 +44,7 @@
       "channelName": "Marcos Azevedo",
       "channelUrl": "https://www.youtube.com/channel/UC9l968_q3tSQIRROvJPesow",
       "iconType":"youtube",
+      "duration": "12:10",
       "descriptionCheckList": [
         {"description": "Backend"},
         {"description": "Frontend"},
@@ -58,6 +61,7 @@
       "channelName": "Marcos Azevedo",
       "channelUrl": "https://www.youtube.com/channel/UC9l968_q3tSQIRROvJPesow",
       "iconType":"youtube",
+      "duration": "07:55",
       "descriptionCheckList": [
         {"description": "Parte 2 do vídeo anterior"}
       ]
@@ -70,6 +74,7 @@
       "channelName": "Alura Cursos Online",
       "channelUrl": "https://www.youtube.com/channel/UCo7EHzKF2zDFWszw7Dg4mPw",
       "iconType":"youtube",
+      "duration": "12:20",
       "descriptionCheckList": [
         {"description": "O que o mercado espera de um Dev Front End"}
       ]
@@ -82,6 +87,7 @@
       "channelName": "Danki Code",
       "channelUrl": "https://www.youtube.com/channel/UCdbMvobipjxi6gdr3L1PBrQ",
       "iconType":"youtube",
+      "duration": "06:25",
       "descriptionCheckList": [
         {"description": "O que o mercado espera de um Dev Full Stack"}
       ]
@@ -94,6 +100,7 @@
       "channelName": "iMasters",
       "channelUrl": "https://www.youtube.com/channel/UCNTX_S7zq9h_MKhPljMIoYw",
       "iconType":"youtube",
+      "duration": "25:45",
       "descriptionCheckList": [
         {"description": "O que o mercado espera de um DevOps "}
       ]
@@ -106,6 +113,7 @@
       "channelName": "DevMedia",
       "channelUrl": "https://www.youtube.com/channel/UClBrpNsTEFLbZDDMW1xiOaQ",
       "iconType":"youtube",
+      "duration": "10:15",
       "descriptionCheckList": [
         {"description": "O que o mercado espera de um Dev Mobile"}
       ]
@@ -118,6 +126,7 @@
       "channelName": "Alura Cursos Online",
       "channelUrl": "https://www.youtube.com/channel/UCo7EHzKF2zDFWszw7Dg4mPw",
       "iconType":"youtube",
+      "duration": "18:00",
       "descriptionCheckList": [
         {"description": "UX"},
         {"description": "Product Owner"},
@@ -135,6 +144,7 @@
       "channelName": "Canal TI",
       "channelUrl": "https://www.youtube.com/channel/UCEQ-nGDGFupHyta90z6hVNQ",
       "iconType":"youtube",
+      "duration": "05:40",
       "descriptionCheckList": [
         {"description": "Parte 1"}
       ]
@@ -147,6 +157,7 @@
       "channelName": "Canal TI",
       "channelUrl": "https://www.youtube.com/channel/UCEQ-nGDGFupHyta90z6hVNQ",
       "iconType":"youtube",
+      "duration": "02:30",
       "descriptionCheckList": [
         {"description": "Parte 2"}
       ]
@@ -159,6 +170,7 @@
       "channelName": "Alura Cursos Online",
       "channelUrl": "https://www.youtube.com/channel/UCo7EHzKF2zDFWszw7Dg4mPw",
       "iconType":"youtube",
+      "duration": "13:15",
       "descriptionCheckList": [
         {"description": "SAAS - Software as a Service"},
         {"description": "PAAS - Plataform as a Service"},
@@ -175,6 +187,7 @@
       "channelName": "Linux 4Fasters",
       "channelUrl": "https://www.youtube.com/channel/UCeLm2Lzs0-CBsgiEyGXXI8g",
       "iconType":"youtube",
+      "duration": "09:25",
       "descriptionCheckList": [
         {"description": "Infraestrutura, Plataforma e Software como serviço"}
       ]
@@ -187,6 +200,7 @@
       "channelName": "Canal TI",
       "channelUrl": "https://www.youtube.com/channel/UCEQ-nGDGFupHyta90z6hVNQ",
       "iconType":"youtube",
+      "duration": "04:40",
       "descriptionCheckList": [
         {"description": "Mais um pouco de SAAS, PAAS e IAAS"}
       ]
@@ -199,6 +213,7 @@
       "channelName": "Ecourse Review",
       "channelUrl": "https://www.youtube.com/channel/UCEZi6EERpqH_iQXd-PG2keg",
       "iconType":"youtube",
+      "duration": "03:40",
       "descriptionCheckList": [
         {"description": "Prós e contra das 2 abordagens de programação na nuvem"}
       ]
@@ -211,6 +226,7 @@
       "channelName": "Metodologias Ativas Sthem",
       "channelUrl": "https://www.youtube.com/channel/UC-dEiHFQmlRC9__ZNzfPMSQ",
       "iconType":"youtube",
+      "duration": "05:00",
       "descriptionCheckList": [
         {"description": "Fatia do mercado de cada linguagem ao longo dos anos"},
         {"description": "NodeJS, Python, .Net, PHP, Java, etc"}
@@ -224,6 +240,7 @@
       "channelName": "Filipe Deschamps",
       "channelUrl": "https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw",
       "iconType":"youtube",
+      "duration": "11:20",
       "descriptionCheckList": [
         {"description": "Olhando para o futuro do mercado de desenvolvimento no mundo"}
       ]
@@ -236,6 +253,7 @@
       "channelName": "DEVNAESTRADA",
       "channelUrl": "https://www.youtube.com/channel/UCtIygB7LtILSFWR0kxtZC-A",
       "iconType":"youtube",
+      "duration": "05:20",
       "descriptionCheckList": [
         {"description": "Importância na participação de Eventos"}
       ]
@@ -248,6 +266,7 @@
       "channelName": "O Bruno Germano",
       "channelUrl": "https://www.youtube.com/channel/UCBWbWViVqDHckknir8PIIdg",
       "iconType":"youtube",
+      "duration": "13:40",
       "descriptionCheckList": [
         {"description": "Apresentação pessoal campeã de um Dev"}
       ]
@@ -260,6 +279,7 @@
       "channelName": "O Bruno Germano",
       "channelUrl": "https://www.youtube.com/channel/UCBWbWViVqDHckknir8PIIdg",
       "iconType":"youtube",
+      "duration": "07:10",
       "descriptionCheckList": [
         {"description": "Como encontras as melhores oportunidades de trabalho"}
       ]
@@ -272,6 +292,7 @@
       "channelName": "Thiago Reis — Growth Machine",
       "channelUrl": "https://www.youtube.com/channel/UCq4tL0My6NKKx1NuNr0WHwA",
       "iconType":"youtube",
+      "duration": "07:00",
       "descriptionCheckList": [
         {"description": "Montando um perfil campeão no Linkedin"}
       ]
@@ -284,6 +305,7 @@
       "channelName": "Adriana Cubas",
       "channelUrl": "https://www.youtube.com/channel/UCmTTKDgAAciioZX5HlEcP7w",
       "iconType":"youtube",
+      "duration": "12:30",
       "descriptionCheckList": [
         {"description": "O que colocar e o que não colocar no Linkedin"}
       ]
@@ -296,6 +318,7 @@
       "channelName": "Programador Sagaz",
       "channelUrl": "https://www.youtube.com/channel/UCaqc3TH-ZdPw7OTIlndvSgQ",
       "iconType":"youtube",
+      "duration": "06:15",
       "descriptionCheckList": [
         {"description": "Ótimas dicas sobre a estudo continuado do Dev"}
       ]
@@ -308,6 +331,7 @@
       "channelName": "Leandro Karnal — Admiradores",
       "channelUrl": "https://www.youtube.com/channel/UChyp62StMW9i8yqTZcLCyXg",
       "iconType":"youtube",
+      "duration": "06:10",
       "descriptionCheckList": [
         {"description": "Riqueza associada ao conhecimento"}
       ]
@@ -320,6 +344,7 @@
       "channelName": "Alura Cursos Online",
       "channelUrl": "https://www.youtube.com/channel/UCo7EHzKF2zDFWszw7Dg4mPw",
       "iconType":"youtube",
+      "duration": "01:00",
       "descriptionCheckList": [
         {"description": "Uma apresentação sobre a proposta de cursos da Alura"}
       ]
@@ -332,6 +357,7 @@
       "channelName": "Super Amigos Noobs",
       "channelUrl": "https://www.youtube.com/channel/UC-oqNm6nl1DoZn62i0XeD5g",
       "iconType":"youtube",
+      "duration": "04:50",
       "descriptionCheckList": [
         {"description": "Conhecendo um pouco mais da plataforma de cursos Udemy"}
       ]
@@ -344,6 +370,7 @@
       "channelName": "Marco Andrade",
       "channelUrl": "https://www.youtube.com/channel/UCbBvT2MifpKoD9syrgCJxuA",
       "iconType":"youtube",
+      "duration": "02:55",
       "descriptionCheckList": [
         {"description": "Quer estudar de graça nas melhores universidades do mundo?"}
       ]
@@ -356,6 +383,7 @@
       "channelName": "EBANX",
       "channelUrl": "https://www.youtube.com/channel/UCBbNcjuSD5jv_lot1JzrXiQ",
       "iconType":"youtube",
+      "duration": "04:55",
       "descriptionCheckList": [
         {"description": "Nanodregree é uma excelente opção a graduação formal oferecida pelas univerdades"}
       ]
@@ -368,6 +396,7 @@
       "channelName": "Alura Cursos Online",
       "channelUrl": "https://www.youtube.com/channel/UCo7EHzKF2zDFWszw7Dg4mPw",
       "iconType":"youtube",
+      "duration": "06:40",
       "descriptionCheckList": [
         {"description": "Certificações e sua importância"}
       ]
@@ -380,6 +409,7 @@
       "channelName": "Centro Cultural América",
       "channelUrl": "https://www.youtube.com/channel/UC6i_hDKI1mGcUN2OAqN0Rag",
       "iconType":"youtube",
+      "duration": "02:20",
       "descriptionCheckList": [
         {"description": "Inglês é fundamental e a gente já vem cantando essa pedra"}
       ]
@@ -392,6 +422,7 @@
       "channelName": "English in Brazil by Carina Fragozo",
       "channelUrl": "https://www.youtube.com/channel/UCcNm9fM9V5wf-0PZVmkM08g",
       "iconType":"youtube",
+      "duration": "08:20",
       "descriptionCheckList": [
         {"description": "Turbinando o inglês com dicas simples"}
       ]
@@ -404,6 +435,7 @@
       "channelName": "Larissa Carvalho",
       "channelUrl": "https://www.youtube.com/channel/UCkfDYEptFiEcLVwgQ6tftvw",
       "iconType":"youtube",
+      "duration": "07:55",
       "descriptionCheckList": [
         {"description": "Aprender inglês sem precisar de curso"}
       ]
@@ -416,6 +448,7 @@
       "channelName": "Adriana Cubas",
       "channelUrl": "https://www.youtube.com/channel/UCmTTKDgAAciioZX5HlEcP7w",
       "iconType":"youtube",
+      "duration": "11:50",
       "descriptionCheckList": [
         {"description": "Modalidades de contratação "}
       ]
@@ -428,6 +461,7 @@
       "channelName": "Alura Cursos Online",
       "channelUrl": "https://www.youtube.com/channel/UCo7EHzKF2zDFWszw7Dg4mPw",
       "iconType":"youtube",
+      "duration": "09:10",
       "descriptionCheckList": [
         {"description": "Trabalho remoto é uma realidade há algum tempo na área de TI"}
       ]
@@ -440,6 +474,7 @@
       "channelName": "Filipe Deschamps",
       "channelUrl": "https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw",
       "iconType":"youtube",
+      "duration": "14:00",
       "descriptionCheckList": [
         {"description": "Vagas de trabalho remoto no Brasil e no Mundo"}
       ]
@@ -452,6 +487,7 @@
       "channelName": "Fabio Akita",
       "channelUrl": "https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ",
       "iconType":"youtube",
+      "duration": "16:10",
       "descriptionCheckList": [
         {"description": "Faculdade é realmente necessária? O mestre Akita explica com maestria"}
       ]
@@ -464,6 +500,7 @@
       "channelName": "Amigoscode",
       "channelUrl": "https://www.youtube.com/channel/UC2KfmYEM4KCuA1ZurravgYw",
       "iconType":"youtube",
+      "duration": "29:40",
       "descriptionCheckList": [
         {"description": "Fechando com chave de ouro"},
         {"description": "Engenheiro de Software sem faculdade"}

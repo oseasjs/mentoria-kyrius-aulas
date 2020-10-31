@@ -10,6 +10,7 @@
       "channelUrl": "https://www.youtube.com/channel/UCp7TZTvJlQLpR09ghuYWfSg",
       "channelName": "Luana Franco",
       "iconType":"youtube",
+      "duration": "03:45",
       "descriptionCheckList": [
         {"description": "Email"},
         {"description": "Hangouts"},
@@ -30,6 +31,7 @@
       "channelUrl": "https://www.youtube.com/channel/UCE0Wgv2k4NGACpf7RYv--cg",
       "channelName": "Techno John",
       "iconType":"youtube",
+      "duration": "02:25",
       "descriptionCheckList": [
         {"description": "Configuração da Bios para aceitar boot pela USB "}
       ]
@@ -42,6 +44,7 @@
       "channelUrl": "https://www.youtube.com/channel/UCE0Wgv2k4NGACpf7RYv--cg",
       "channelName": "Techno John",
       "iconType":"youtube",
+      "duration": "06:20",
       "descriptionCheckList": [
         {"description": "Instalando a Imagem do ubuntu em um pen drive"}
       ]
@@ -54,6 +57,7 @@
       "channelName": "Techno John",
       "channelUrl": "https://www.youtube.com/channel/UCE0Wgv2k4NGACpf7RYv--cg",
       "iconType":"youtube",
+      "duration": "07:50",
       "descriptionCheckList": [
         {"description": "Pen Drive pronto, agora é só instalar no idioma INGLÊS hein, sem preguiça"}
       ]
@@ -66,6 +70,7 @@
       "channelName": "Diolinux",
       "channelUrl": "https://www.youtube.com/channel/UCEf5U1dB5a2e2S-XUlnhxSA",
       "iconType":"youtube",
+      "duration": "04:20",
       "descriptionCheckList": [
         {"description": "Vamos usar muito nos hangouts semanais"}
       ]
@@ -78,6 +83,7 @@
       "channelName": "Luis Fernandes",
       "channelUrl": "https://www.youtube.com/channel/UCcPuWkmyUpgkIMKY9P3CC0Q",
       "iconType":"youtube",
+      "duration": "08:50",
       "descriptionCheckList": [
         {"description": "Java e Maven: 2 em 1"}
       ]
@@ -90,6 +96,7 @@
       "channelName": "Marcos Azevedo",
       "channelUrl": "https://www.youtube.com/channel/UC9l968_q3tSQIRROvJPesow",
       "iconType":"youtube",
+      "duration": "13:55",
       "descriptionCheckList": [
         {"description": "Pra codar na madruga, a IDE tem que ter tema noturno"}
       ]
@@ -102,6 +109,7 @@
       "channelName": "Ceos3c",
       "channelUrl": "https://www.youtube.com/channel/UCDqZyVCTwg9UyRWKgQ7Gizg",
       "iconType":"youtube",
+      "duration": "03:40",
       "descriptionCheckList": [
         {"description": "Um pouco de linha de comando e de inglês pra ir entrando no rítmo"}
       ]
@@ -114,6 +122,7 @@
       "channelName": "Marcos Azevedo",
       "channelUrl": "https://www.youtube.com/channel/UC9l968_q3tSQIRROvJPesow",
       "iconType":"youtube",
+      "duration": "13:55",
       "descriptionCheckList": [
         {"description": "Pra quem vive de imagem"}
       ]
@@ -126,6 +135,7 @@
       "channelName": "Professor José de Assis",
       "channelUrl": "https://www.youtube.com/channel/UCySbdH4Tt_l5W4gQJrNqm-Q",
       "iconType":"youtube",
+      "duration": "12:40",
       "descriptionCheckList": [
         {"description": "Lugar de código pronto é na núvem"}
       ]
@@ -138,6 +148,7 @@
       "channelName": "Lucas Gilbert",
       "channelUrl": "https://www.youtube.com/channel/UCpZpEj5zANgCoBH-YcVM5Pg",
       "iconType":"youtube",
+      "duration": "15:20",
       "descriptionCheckList": [
         {"description": "É só baixar o aplicativo para o celular, criar uma conta e cair dentro todos os dias"}
       ]
@@ -150,6 +161,7 @@
       "channelName": "Jefferson Meneses",
       "channelUrl": "https://www.youtube.com/channel/UCk70TYJHmZ_tsBKo-_SjP1w",
       "iconType":"youtube",
+      "duration": "05:45",
       "descriptionCheckList": [
         {"description": "Diminuir a velocidade da reprodução para 0.75x tb pode ajudar"}
       ]
@@ -159,9 +171,10 @@
       "type":"text",
       "title": "Entrando no Slack da Mentoria",
       "avatarUrl": "/mentoria-kyrius-aulas/yoda.png",
-      "channelName": "Slack: Kirius",
-      "channelUrl": "https://medium.com/@oseasjs/mentoria-desenvolvedor-java-parte-1-9f2b58e51aaa",
+      "channelName": "Slack: Kyrius",
+      "channelUrl": "https://join.slack.com/t/kyrius/shared_invite/enQtOTY2NDQ2NjI3ODk1LTMzZDRhZTRkMTliMDg4YzViODU1NTFlOTBiODk3MTM3MzU5YTI0MmZhODE5MmNhMTgyN2EyNmU2OGU0OTFkYmQ",
       "iconType":"slack",
+      "duration": "02:00",
       "descriptionCheckList": [
         {"description": "Para entrar no grupo criado no Slack para mentoria, click link abaixo do Mestre Yoda"},
         {"description": "Se ainda não tiver uma conta lá, é seguir o passo a passo a partir do link para criar uma conta e depois é sucesso."}
@@ -175,6 +188,7 @@
       "channelName": "Amigoscode",
       "channelUrl": "https://www.youtube.com/channel/UC2KfmYEM4KCuA1ZurravgYw",
       "iconType":"youtube",
+      "duration": "05:10",
       "descriptionCheckList": [
         {"description": "O inglês está fraco? Ative a legenda automática e diminia a velocidade do vídeo"}
       ]

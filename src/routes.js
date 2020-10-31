@@ -16,6 +16,8 @@
 
 */
 import CommonPageView from "views/CommonPageView.js";
+import SlackPageView from "views/SlackPageView.js";
+import TrelloPageView from "views/TrelloPageView.js";
 import Dashboard from "views/Dashboard";
 import Icons from "views/Icons";
 import Notifications from "views/Notifications";
@@ -23,6 +25,7 @@ import Typography from "views/Typography";
 import UserProfile from "views/UserProfile";
 import TableList from "views/TableList";
 import Map from "views/Map";
+import { SiTrello } from "react-icons/si";
 
 var routes = [
   {
@@ -85,19 +88,18 @@ var routes = [
     path: "/slack",
     name: "Slack",
     rtlName: "",
-    icon: "tim-icons icon-chat-33",
-    component: CommonPageView,
+    icon: "slack",
+    component: SlackPageView,
     layout: "/mentoria-kyrius-aulas/admin"
   },
   {
     path: "/trello",
     name: "Trello",
     rtlName: "",
-    icon: "tim-icons icon-pin",
-    component: CommonPageView,
+    icon: "trello",
+    component: TrelloPageView,
     layout: "/mentoria-kyrius-aulas/admin"
-  },
-  
+  }
 
 
   /*
