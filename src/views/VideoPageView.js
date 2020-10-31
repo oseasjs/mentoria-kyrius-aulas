@@ -15,7 +15,7 @@ import {
   Button,  
 } from "reactstrap";
 
-class CommonPageView extends React.Component {
+class VideoPageView extends React.Component {
 
   constructor(props) {
     super(props);
@@ -264,4 +264,4 @@ class CommonPageView extends React.Component {
 
 }
 
-export default CommonPageView;
+export default VideoPageView;
