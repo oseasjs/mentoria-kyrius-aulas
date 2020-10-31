@@ -73,7 +73,7 @@ class CommonPageView extends React.Component {
                     <div>
                       <a href={jsonVideoContent.channelUrl} 
                         target="_blank"
-                        style={{"font-size": "1rem"}}>
+                        style={{"font-size": "1rem", "font-weight": "normal"}}>
                         Canal: {jsonVideoContent.channelName}
                       </a>
                     </div>
