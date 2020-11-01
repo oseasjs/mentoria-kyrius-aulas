@@ -16,11 +16,7 @@
         {"description": "Hangouts"},
         {"description": "Calendário"},
         {"description": "Drive na nuvem"},
-        {"description": "Apresentações"}, 
-        {"description": "Documentos"},
-        {"description": "Planilhas"}, 
-        {"description": "Fotos"},
-        {"description": "OpenID"}
+        {"description": "Apresentações, Documentos, Planilhas, Fotos, OpenID e muito mais"}
       ]
     }
     ,{

@@ -13,14 +13,9 @@
       "duration": "42:05",
       "descriptionCheckList": [
         {"description": "Formação e níveis da carreira"},
-        {"description": "Estagiário"},
-        {"description": "Júnior"},
-        {"description": "Pleno"},
-        {"description": "Sênior"},
-        {"description": "Team Leader"},
-        {"description": "Tech Leader"},
-        {"description": "Head"},
-        {"description": "Especialista"}
+        {"description": "Estagiário, Júnior, Pleno, Sênior"},
+        {"description": "Team Leader, Tech Leader"},
+        {"description": "Head, Especialista"}
       ]
     }
     ,{
@@ -129,9 +124,7 @@
       "duration": "18:00",
       "descriptionCheckList": [
         {"description": "UX"},
-        {"description": "Product Owner"},
-        {"description": "Project Manager"},
-        {"description": "Scrum Master"},
+        {"description": "Product Owner, Project Manager, Scrum Master"},
         {"description": "Business Analist"},
         {"description": "Data Scientist"}
       ]
