@@ -41,6 +41,7 @@
         font-size: 1rem;
         font-weight: bolder;
         margin-left: 20px;
+        color: hsla(0,0%,100%,.6);
       }
       
     }
@@ -54,8 +55,8 @@
       color: rgba($white,0.8);
 
       .card-title{
-          /* color: $white; */
-          font-weight: bolder;         
+          font-weight: bolder;  
+          color: hsla(0,0%,100%,.6);       
       }
 
       .card-category{

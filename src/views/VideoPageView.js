@@ -53,7 +53,7 @@ class VideoPageView extends React.Component {
   renderVideo(jsonVideoContent) {
     return (
       <Row>
-          <Col md="3">
+          <Col md="2">
             <Card className="card-user">
               <CardBody>
                 <div className="author">
@@ -69,14 +69,12 @@ class VideoPageView extends React.Component {
                       src={jsonVideoContent.avatarUrl}
                     />                      
                   </a>
-                  <h5 className="title">
-                    <div>
-                      <a href={jsonVideoContent.channelUrl} 
-                        target="_blank"
-                        style={{"font-size": "1rem", "font-weight": "normal"}}>
-                        Canal: {jsonVideoContent.channelName}
-                      </a>
-                    </div>
+                  <h5 className="title">                    
+                    <a href={jsonVideoContent.channelUrl} 
+                      target="_blank"
+                      style={{"font-weight": "normal"}}>
+                      Canal: {jsonVideoContent.channelName}
+                    </a>      
                   </h5>
                   <YoutubeModal videoId={jsonVideoContent.id} height="520" width="60%">
                     <div className="card-youtube-video">
@@ -98,11 +96,10 @@ class VideoPageView extends React.Component {
                 <div className="card-description">
                   {jsonVideoContent.descriptionCheckList.map((d) => {
                     return (
-                      <div style={{"marginLeft":"20px", "marginTop": "5px"}}>
+                      <p>
                         <i className="tim-icons icon-check-2" />
-                        {" " + d.description}
-                        <br/>
-                      </div>
+                        {d.description}
+                      </p>
                     )
                   })}                        
                 </div>
@@ -117,10 +114,10 @@ class VideoPageView extends React.Component {
                   <i className="tim-icons icon-time-alarm" 
                     style={{"font-size": "2.5rem", "margin-top": "20px"}}/>
                 </div>
-                <div className="card-description">
-                  <span>
+                <div className="card-duration">
+                  
                     Tempo {': ' + jsonVideoContent.duration}
-                  </span>
+                  
                 </div>
               </CardBody>
             </Card>
@@ -149,7 +146,7 @@ class VideoPageView extends React.Component {
   renderText(jsonTextContent) {
     return (
       <Row>
-        <Col md="3">
+        <Col md="2">
           <Card className="card-user" >
             <CardBody>
               <div className="author">
@@ -168,7 +165,7 @@ class VideoPageView extends React.Component {
 
                   <a href={jsonTextContent.channelUrl} 
                     target="_blank"
-                    style={{"font-size": "1rem"}}>
+                    style={{"font-weight": "normal"}}>
                     Canal: {jsonTextContent.channelName}
                   </a>
                                     
