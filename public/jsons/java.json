@@ -25,15 +25,11 @@
       "iconType":"youtube",
       "duration": "09:40",
       "descriptionCheckList": [
-        {"description": "Classe"},
-        {"description": "Atributos"},
-        {"description": "Métodos"},
-        {"description": "Construtores"},
+        {"description": "Classe, Atributos"},
+        {"description": "Métodos, Construtores"},
         {"description": "Modificadores de Acesso"},
-        {"description": "Interfaces"},
-        {"description": "Enums"},
-        {"description": "Condições"},
-        {"description": "Repetições"}
+        {"description": "Interfaces, Enums"},
+        {"description": "Condições, Repetições"}
       ]
     }
     ,{

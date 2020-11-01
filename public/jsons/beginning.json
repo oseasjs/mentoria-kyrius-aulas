@@ -55,11 +55,9 @@
       "descriptionCheckList": [
         {"description": "Se liga na stack tecnológica que o cara usou: "},
         {"description": "Slack"},
-        {"description": "IntelliJ"},
-        {"description": "Spring Boot"},
+        {"description": "IntelliJ, Spring Boot"},
         {"description": "Docker"},
-        {"description": "Mockito"},
-        {"description": "JUnit"}
+        {"description": "Mockito, JUnit"}
       ]
     }
   ]
