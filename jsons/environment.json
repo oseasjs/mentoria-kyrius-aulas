@@ -59,7 +59,8 @@
       "iconType":"youtube",
       "duration": "07:50",
       "descriptionCheckList": [
-        {"description": "Pen Drive pronto, agora é só instalar no idioma INGLÊS hein, sem preguiça"}
+        {"description": "Pen Drive pronto, agora é só instalar"},
+        {"description": "No idioma INGLÊS hein, sem preguiça"}
       ]
     }
     ,{
@@ -190,7 +191,8 @@
       "iconType":"youtube",
       "duration": "05:10",
       "descriptionCheckList": [
-        {"description": "O inglês está fraco? Ative a legenda automática e diminia a velocidade do vídeo"}
+        {"description": "O inglês está fraco? "},
+        {"description": "Ative a legenda automática e diminia a velocidade do vídeo"}
       ]
     } 
   ]
