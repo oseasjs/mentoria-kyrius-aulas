@@ -116,7 +116,7 @@ class Admin extends React.Component {
             bgColor={this.state.backgroundColor}
             logo={{
               outterLink: "/mentoria-kyrius-aulas",
-              text: "Kyrius",
+              text: "Kyrius Teste",
               imgSrc: logo
             }}
             toggleSidebar={this.toggleSidebar}

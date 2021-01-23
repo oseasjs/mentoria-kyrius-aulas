@@ -32,9 +32,9 @@ ReactDOM.render(
   <Router history={hist} >
     <Switch>
       <Route path="/mentoria-kyrius-aulas/*" render={props => <AdminLayout {...props} />} />
-      <Redirect from="/" to="/mentoria-kyrius-aulas/admin/environment" />
-      <Redirect from="/admin/java" to="/mentoria-kyrius-aulas/admin/java" />
-      <Route path="/mentoria-kyrius-aulas/admin/basic" render={props => <AdminLayout {...props} />} />
+      {/* <Redirect from="/" to="/mentoria-kyrius-aulas/admin/environment" /> */}
+      {/* <Redirect from="/admin/java" to="/mentoria-kyrius-aulas/admin/java" /> */}
+      {/* <Route path="/mentoria-kyrius-aulas/admin/basic" render={props => <AdminLayout {...props} />} /> */}
     </Switch>
   </Router>,
   document.getElementById("root")
