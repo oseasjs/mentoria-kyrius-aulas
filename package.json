@@ -35,7 +35,7 @@
     "compile-scss": "node-sass src/assets/scss/black-dashboard-react.scss src/assets/css/black-dashboard-react.css",
     "minify-sass": "node-sass src/assets/scss/black-dashboard-react.scss src/assets/css/black-dashboard-react.min.css --output-style compressed",
     "map-sass": "node-sass src/assets/scss/black-dashboard-react.scss src/assets/css/black-dashboard-react.css --source-map true",
-    "deploy": "gh-pages -d build"
+    "deploy": "react-scripts build && gulp licenses && gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"

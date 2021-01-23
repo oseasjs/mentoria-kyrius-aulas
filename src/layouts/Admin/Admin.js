@@ -17,6 +17,7 @@
 */
 import React from "react";
 import { Route, Switch, Redirect } from "react-router-dom";
+
 // javascript plugin used to create scrollbars on windows
 import PerfectScrollbar from "perfect-scrollbar";
 
@@ -77,6 +78,16 @@ class Admin extends React.Component {
     this.setState({ sidebarOpened: !this.state.sidebarOpened });
   };
   getRoutes = routes => {
+    console.log('### Init getRoutes');
+    
+    console.log(routes);
+    routes.map((prop, key) => {
+      console.log(prop);
+      console.log(key);
+    });
+    
+    console.log('### End getRoutes');
+
     return routes.map((prop, key) => {
       if (prop.layout === "/mentoria-kyrius-aulas/admin") {
         return (
@@ -116,7 +127,7 @@ class Admin extends React.Component {
             bgColor={this.state.backgroundColor}
             logo={{
               outterLink: "/mentoria-kyrius-aulas",
-              text: "Kyrius Teste",
+              text: "Kyrius",
               imgSrc: logo
             }}
             toggleSidebar={this.toggleSidebar}
@@ -133,8 +144,8 @@ class Admin extends React.Component {
               sidebarOpened={this.state.sidebarOpened}
             />
             <Switch>
-              {this.getRoutes(routes)}
-              <Redirect from="*" to="/mentoria-kyrius-aulas/admin/environment"/>
+              {this.getRoutes(routes)}             
+              <Redirect from="/mentoria-kyrius-aulas" to="/mentoria-kyrius-aulas/admin/environment" />
             </Switch>
             {// we don't want the Footer to be rendered on map page
             this.props.location.pathname.indexOf("maps") !== -1 ? null : (

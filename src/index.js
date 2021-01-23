@@ -31,11 +31,29 @@ const hist = createBrowserHistory();
 ReactDOM.render(
   <Router history={hist} >
     <Switch>
+      
       <Route path="/mentoria-kyrius-aulas/*" render={props => <AdminLayout {...props} />} />
-      {/* <Redirect from="/" to="/mentoria-kyrius-aulas/admin/environment" /> */}
-      {/* <Redirect from="/admin/java" to="/mentoria-kyrius-aulas/admin/java" /> */}
-      {/* <Route path="/mentoria-kyrius-aulas/admin/basic" render={props => <AdminLayout {...props} />} /> */}
+      <Redirect from="/" to="/mentoria-kyrius-aulas/admin/environment" />
+      
     </Switch>
   </Router>,
   document.getElementById("root")
 );
+
+
+// import ReactGA from 'react-ga';
+// import createHistory from 'history/createBrowserHistory';
+
+// ReactGA.initialize('UA-156453259-1');
+// ReactGA.pageview(window.location.pathname);
+
+
+// const history = createHistory();
+// history.listen((location) => {
+//   ReactGA.set({
+//     page: location.pathname,
+//   });
+//   ReactGA.pageview(location.pathname);
+// });
+
+// export default history;
