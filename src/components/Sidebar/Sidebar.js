@@ -166,16 +166,16 @@ class Sidebar extends React.Component {
               );
             })}
 
-            <li className="active-pro" style={{"font-size":"1.5rem"}}>
-              <div style={{"margin-left": "15px", "width": "90%"}}>
-                <div style={{"float": "left", "margin-right": "15px"}}>
+            <li className="active-pro" style={{"fontSize":"1.5rem"}}>
+              <div style={{"marginLeft": "15px", "width": "90%"}}>
+                <div style={{"float": "left", "marginRight": "15px"}}>
                   <a href="https://www.linkedin.com/company/kyrius-mentoria" 
                     target="_blank"
                     style={{"color":"white"}}>
                     <SiLinkedin />
                   </a>
                 </div>
-                <div style={{"float": "left", "margin-right": "15px"}}>
+                <div style={{"float": "left", "marginRight": "15px"}}>
                   <a href="https://github.com/oseasjs/kyrius" 
                     target="_blank"
                     style={{"color":"white"}}>

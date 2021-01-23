@@ -16,19 +16,12 @@
 
 */
 import React from "react";
-import { SiSlack, SiTrello } from "react-icons/si";
+import { SiTrello } from "react-icons/si";
 
 // reactstrap components
 import {
-  Button,
   Card,
-  CardHeader,
   CardBody,
-  CardFooter,
-  CardText,
-  FormGroup,
-  Form,
-  Input,
   Row,
   Col
 } from "reactstrap";
@@ -42,7 +35,7 @@ class TrelloPageView extends React.Component {
             <Col>
               <Card>
                 <CardBody>
-                  <img src="/mentoria-kyrius-aulas/trello.png" />
+                  <img src="/mentoria-kyrius-aulas/trello.png" alt="Trello da Mentoria" />
                 </CardBody>                
               </Card>
             </Col>
@@ -70,6 +63,7 @@ class TrelloPageView extends React.Component {
                       
                       <a href="https://trello.com/b/R1wOBbVP/kyrius"
                         target="_blank"
+                        rel="noopener noreferrer"
                         style={{"font-size": "2.5rem", "color": "#094c72"}}>
                           <SiTrello />
                       </a>
@@ -77,6 +71,7 @@ class TrelloPageView extends React.Component {
                     <h5 className="card-video-title" style={{"font-size": "1.2rem"}}>
                       <a href="https://trello.com/b/R1wOBbVP/kyrius"
                         target="_blank"
+                        rel="noopener noreferrer"
                         style={{"font-size": "2.5rem", "color": "white"}}>
                         <span className="card-video-title-span">Entrar no Trello da Mentoria</span>
                       </a>                    

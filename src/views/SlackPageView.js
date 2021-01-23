@@ -20,15 +20,8 @@ import { SiSlack } from "react-icons/si";
 
 // reactstrap components
 import {
-  Button,
   Card,
-  CardHeader,
   CardBody,
-  CardFooter,
-  CardText,
-  FormGroup,
-  Form,
-  Input,
   Row,
   Col
 } from "reactstrap";
@@ -42,7 +35,7 @@ class SlackPageView extends React.Component {
             <Col>
               <Card>
                 <CardBody>
-                  <img src="/mentoria-kyrius-aulas/slack.png" />
+                  <img src="/mentoria-kyrius-aulas/slack.png" alt="Slack da Mentoria" />
                 </CardBody>                
               </Card>
             </Col>
@@ -68,6 +61,7 @@ class SlackPageView extends React.Component {
                       <br/>
                       <a href="https://join.slack.com/t/kyrius/shared_invite/enQtOTY2NDQ2NjI3ODk1LTMzZDRhZTRkMTliMDg4YzViODU1NTFlOTBiODk3MTM3MzU5YTI0MmZhODE5MmNhMTgyN2EyNmU2OGU0OTFkYmQ"
                         target="_blank"
+                        rel="noopener noreferrer"
                         style={{"font-size": "2.5rem"}}>
                           <SiSlack />
                       </a>
@@ -75,6 +69,7 @@ class SlackPageView extends React.Component {
                     <h5 className="card-video-title" style={{"font-size": "1.2rem"}}>
                       <a href="https://join.slack.com/t/kyrius/shared_invite/enQtOTY2NDQ2NjI3ODk1LTMzZDRhZTRkMTliMDg4YzViODU1NTFlOTBiODk3MTM3MzU5YTI0MmZhODE5MmNhMTgyN2EyNmU2OGU0OTFkYmQ"
                         target="_blank"
+                        rel="noopener noreferrer"
                         style={{"font-size": "2.5rem", "color": "white"}}>
                         <span className="card-video-title-span">Entrar no Slack da Mentoria</span>
                       </a>                    
@@ -83,7 +78,6 @@ class SlackPageView extends React.Component {
                   <div className="card-description">
                     
                   </div>
-                  
                 </CardBody>                
               </Card>
             </Col>

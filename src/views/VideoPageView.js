@@ -10,9 +10,7 @@ import {
   Row,
   Col,
   CardHeader,
-  CardTitle,
-  Modal,
-  Button,  
+  CardTitle,  
 } from "reactstrap";
 
 class VideoPageView extends React.Component {
@@ -62,7 +60,8 @@ class VideoPageView extends React.Component {
                   <div className="block block-three" />
                   <div className="block block-four" />
                   <a href={jsonVideoContent.channelUrl} 
-                    target="_blank">
+                    target="_blank" 
+                    rel="noopener noreferrer">
                     <img
                       alt="..."
                       className="avatar"
@@ -72,6 +71,7 @@ class VideoPageView extends React.Component {
                   <h5 className="title">                    
                     <a href={jsonVideoContent.channelUrl} 
                       target="_blank"
+                      rel="noopener noreferrer"
                       style={{"font-weight": "normal"}}>
                       Canal: {jsonVideoContent.channelName}
                     </a>      
@@ -165,6 +165,7 @@ class VideoPageView extends React.Component {
 
                   <a href={jsonTextContent.channelUrl} 
                     target="_blank"
+                    rel="noopener noreferrer"
                     style={{"font-weight": "normal"}}>
                     Canal: {jsonTextContent.channelName}
                   </a>
@@ -172,6 +173,7 @@ class VideoPageView extends React.Component {
                 </h5>   
                 <a href={jsonTextContent.channelUrl} 
                   target="_blank"
+                  rel="noopener noreferrer"
                   style={{"font-size": "2.5rem"}}>
                     {this.renderIcon(jsonTextContent)}
                 </a>
