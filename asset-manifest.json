@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/mentoria-kyrius-aulas/static/css/main.2ff737a0.chunk.css",
-    "main.js": "/mentoria-kyrius-aulas/static/js/main.5214a219.chunk.js",
-    "main.js.map": "/mentoria-kyrius-aulas/static/js/main.5214a219.chunk.js.map",
+    "main.js": "/mentoria-kyrius-aulas/static/js/main.b00ebc93.chunk.js",
+    "main.js.map": "/mentoria-kyrius-aulas/static/js/main.b00ebc93.chunk.js.map",
     "runtime-main.js": "/mentoria-kyrius-aulas/static/js/runtime-main.d5cc6f0d.js",
     "runtime-main.js.map": "/mentoria-kyrius-aulas/static/js/runtime-main.d5cc6f0d.js.map",
-    "static/js/2.b0b4b398.chunk.js": "/mentoria-kyrius-aulas/static/js/2.b0b4b398.chunk.js",
-    "static/js/2.b0b4b398.chunk.js.map": "/mentoria-kyrius-aulas/static/js/2.b0b4b398.chunk.js.map",
+    "static/js/2.47e74ccd.chunk.js": "/mentoria-kyrius-aulas/static/js/2.47e74ccd.chunk.js",
+    "static/js/2.47e74ccd.chunk.js.map": "/mentoria-kyrius-aulas/static/js/2.47e74ccd.chunk.js.map",
     "index.html": "/mentoria-kyrius-aulas/index.html",
-    "precache-manifest.183ed34cc31ac7af04cec0249139da01.js": "/mentoria-kyrius-aulas/precache-manifest.183ed34cc31ac7af04cec0249139da01.js",
+    "precache-manifest.3bf591d5ddececf1ccdc83491f968507.js": "/mentoria-kyrius-aulas/precache-manifest.3bf591d5ddececf1ccdc83491f968507.js",
     "service-worker.js": "/mentoria-kyrius-aulas/service-worker.js",
     "static/css/main.2ff737a0.chunk.css.map": "/mentoria-kyrius-aulas/static/css/main.2ff737a0.chunk.css.map",
-    "static/js/2.b0b4b398.chunk.js.LICENSE.txt": "/mentoria-kyrius-aulas/static/js/2.b0b4b398.chunk.js.LICENSE.txt",
-    "static/js/main.5214a219.chunk.js.LICENSE.txt": "/mentoria-kyrius-aulas/static/js/main.5214a219.chunk.js.LICENSE.txt",
+    "static/js/2.47e74ccd.chunk.js.LICENSE.txt": "/mentoria-kyrius-aulas/static/js/2.47e74ccd.chunk.js.LICENSE.txt",
+    "static/js/main.b00ebc93.chunk.js.LICENSE.txt": "/mentoria-kyrius-aulas/static/js/main.b00ebc93.chunk.js.LICENSE.txt",
     "static/media/anime3.png": "/mentoria-kyrius-aulas/static/media/anime3.bd6820f1.png",
     "static/media/nucleo-icons.css": "/mentoria-kyrius-aulas/static/media/nucleo.f0b489a5.woff",
     "static/media/react-logo.png": "/mentoria-kyrius-aulas/static/media/react-logo.eb6be414.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d5cc6f0d.js",
-    "static/js/2.b0b4b398.chunk.js",
+    "static/js/2.47e74ccd.chunk.js",
     "static/css/main.2ff737a0.chunk.css",
-    "static/js/main.5214a219.chunk.js"
+    "static/js/main.b00ebc93.chunk.js"
   ]
 }
