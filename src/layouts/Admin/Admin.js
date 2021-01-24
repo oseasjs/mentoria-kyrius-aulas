@@ -78,16 +78,6 @@ class Admin extends React.Component {
     this.setState({ sidebarOpened: !this.state.sidebarOpened });
   };
   getRoutes = routes => {
-    console.log('### Init getRoutes');
-    
-    console.log(routes);
-    routes.map((prop, key) => {
-      console.log(prop);
-      console.log(key);
-    });
-    
-    console.log('### End getRoutes');
-
     return routes.map((prop, key) => {
       if (prop.layout === "/mentoria-kyrius-aulas/admin") {
         return (
