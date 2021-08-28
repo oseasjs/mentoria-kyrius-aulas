@@ -1,7 +1,7 @@
 # Mentoria Kyrius | Kyrius Mentoring
 
 This project was bootstrapped with:
-- [Node v14](https://nodejs.org);
+- [Node v16](https://nodejs.org);
 - [React](https://reactjs.org)
 - [Black Dashboard React](https://github.com/creativetimofficial/black-dashboard-react);
 - [React Icons](https://react-icons.github.io/react-icons/);
@@ -9,8 +9,13 @@ This project was bootstrapped with:
 
 ## Scripts
 
+Installing:
+
+`npm install --global yarn`
+
 In the project directory, you can run:
 
+`yarn install`
 `yarn start`
 
 Runs the app in the development mode.\
