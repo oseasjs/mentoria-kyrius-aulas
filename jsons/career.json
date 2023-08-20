@@ -212,17 +212,17 @@
       ]
     }
     ,{
-      "id": "8anOprjALhs",
+      "id": "QY0Bce66uSo",
       "type":"video",
-      "title": "Outras linguagens",
-      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJwc_c-SMSsq-RrlLZRwJGjj2O4Y6f3ssXsphAvI=s68-c-k-c0x00ffffff-no-rj",
-      "channelName": "Metodologias Ativas Sthem",
-      "channelUrl": "https://www.youtube.com/channel/UC-dEiHFQmlRC9__ZNzfPMSQ",
+      "title": "Linguagens 2023",
+      "avatarUrl": "https://yt3.ggpht.com/ytc/AOPolaTI5xRK3b3NeL0Ua2DagGbfdiQTQoKyt1jA0uXQ8A=s88-c-k-c0x00ffffff-no-rj",
+      "channelName": "Código Fonte TV",
+      "channelUrl": "https://www.youtube.com/@codigofontetv",
       "iconType":"youtube",
-      "duration": "05:00",
+      "duration": "23:14",
       "descriptionCheckList": [
         {"description": "Fatia do mercado de cada linguagem ao longo dos anos"},
-        {"description": "NodeJS, Python, .Net, PHP, Java, etc"}
+        {"description": "C#, NodeJS, Python, .Net, PHP, Java, etc"}
       ]
     }
     ,{
@@ -252,29 +252,32 @@
       ]
     }
     ,{
-      "id": "ZCyqDoas-8s",
+      "id": "rYWwXtQ4vkw",
       "type":"video",
-      "title": "Linkedin: Apresentação Pessoal",
-      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJxBbF4o6nDeECouPs-yPfpxgzBdgAPzPOO4SME5Lw=s68-c-k-c0x00ffffff-no-rj",
-      "channelName": "O Bruno Germano",
-      "channelUrl": "https://www.youtube.com/channel/UCBWbWViVqDHckknir8PIIdg",
+      "title": "Como Montar um Perfil no LinkedIn em 2023",
+      "avatarUrl": "https://yt3.ggpht.com/G8Wyy-HqTHkDWiRpOD-LijAhY52rMEw9HC2x4Cn_146Sn3qlTF8_WSKtvHCUtR3D-cjN41vL9A=s88-c-k-c0x00ffffff-no-rj",
+      "channelName": "Jonny Viccari",
+      "channelUrl": "https://www.youtube.com/@JonnyViccari",
       "iconType":"youtube",
-      "duration": "13:40",
+      "duration": "15:02",
       "descriptionCheckList": [
         {"description": "Apresentação pessoal campeã de um Dev"}
       ]
     }
     ,{
-      "id": "JNDFgq8JpLw",
+      "id": "nuIftqIFAF0",
       "type":"video",
-      "title": "Como conseguir um emprego",
-      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJxBbF4o6nDeECouPs-yPfpxgzBdgAPzPOO4SME5Lw=s68-c-k-c0x00ffffff-no-rj",
-      "channelName": "O Bruno Germano",
-      "channelUrl": "https://www.youtube.com/channel/UCBWbWViVqDHckknir8PIIdg",
+      "title": "Onde encontrar vagas para PROGRAMADOR júnior em 2023?",
+      "avatarUrl": "https://yt3.ggpht.com/YtEFxzWdIN8cMOFSNXacDlVZFzE8k_K6Xn_bOc_ehh2q49YGQ-QmwS-fAg_rJeM7GnTldac7=s88-c-k-c0x00ffffff-no-rj",
+      "channelName": "Attekita Dev",
+      "channelUrl": "https://www.youtube.com/@attekitadev",
       "iconType":"youtube",
-      "duration": "07:10",
+      "duration": "19:11",
       "descriptionCheckList": [
-        {"description": "Como encontras as melhores oportunidades de trabalho"}
+        {"description": "Como encontrar vagas para junior em 2023"},
+        {"description": "Utilizando alternativas e possibilidades para encontrar a vaga"},
+        {"description": "Entendo como o mercado funciona"},
+        {"description": "Buscando vagas publicadas no linkedin"}
       ]
     }
     ,{
@@ -291,16 +294,20 @@
       ]
     }
     ,{
-      "id": "IUkzOwBFlJQ",
+      "id": "h06KIgcPUnU",
       "type":"video",
-      "title": "Certo e Errado no Linkedin",
-      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJw0pvj5R7Q0XxkWHwIxwd2MaTIazHK6u6P91S83rw=s68-c-k-c0x00ffffff-no-rj",
+      "title": "Hacks no Linkedin para programadores",
+      "avatarUrl": "https://yt3.ggpht.com/z0Ccoolotr1Q4F2EaCIgaR4GWLAR_VCwP25QrTica_e9XV6x8-kuQx_qnqI1mnaOkYl6KkIL=s88-c-k-c0x00ffffff-no-rj",
       "channelName": "Adriana Cubas",
-      "channelUrl": "https://www.youtube.com/channel/UCmTTKDgAAciioZX5HlEcP7w",
+      "channelUrl": "https://www.youtube.com/@LucasMontano",
       "iconType":"youtube",
-      "duration": "12:30",
+      "duration": "08:00",
       "descriptionCheckList": [
-        {"description": "O que colocar e o que não colocar no Linkedin"}
+        {"description": "Apresentação"},
+        {"description": "Clareza"},
+        {"description": "Habilidades"},
+        {"description": "Diferenciais"},
+        {"description": "Internacionalização"}
       ]
     }
     ,{
@@ -330,16 +337,20 @@
       ]
     }
     ,{
-      "id": "k7IPr-rhrPE",
+      "id": "T882jhftuwE",
       "type":"video",
-      "title": "Cursos online: Alura",
-      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJzuPK0KVmmD_GcElaYoe8rmLq2Mtqgkcxo2Ls0qeQ=s68-c-k-c0x00ffffff-no-rj",
-      "channelName": "Alura Cursos Online",
-      "channelUrl": "https://www.youtube.com/channel/UCo7EHzKF2zDFWszw7Dg4mPw",
+      "title": "Conheça os cursos que vão fazer sua carreira decolar",
+      "avatarUrl": "https://yt3.ggpht.com/T8G2AqFptE4RWa3NVoeE1eP8vIQPDf9gBIvfeRm_aUHujzjQFhoZWWcC7c0LlnY76l9Zl6S0TA=s88-c-k-c0x00ffffff-no-rj",
+      "channelName": "Alura",
+      "channelUrl": "https://www.youtube.com/@alura",
       "iconType":"youtube",
-      "duration": "01:00",
+      "duration": "02:00",
       "descriptionCheckList": [
-        {"description": "Uma apresentação sobre a proposta de cursos da Alura"}
+        {"description": "Uma apresentação sobre a proposta de cursos da Alura"},
+        {"description": "Excelencia no conteúdo"},
+        {"description": "Exercícios Práticos"},
+        {"description": "Comunidade"}
+
       ]
     }
     ,{

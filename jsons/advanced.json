@@ -185,29 +185,19 @@
       ]
     }
     ,{
-      "id": "aJnFGMclhU8",
+      "id": "R8_veQiYBjI",
       "type":"video",
-      "title": "Github Actions",
-      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJxu3VyUbJ153nt075pz5F5gXPiE1kFRchGQjTqh=s68-c-k-c0x00ffffff-no-rj",
-      "channelName": "GitHub Training & Guides",
-      "channelUrl": "https://www.youtube.com/channel/UCP7RrmoueENv9TZts3HXXtw",
+      "title": "Basic Concepts and CI/CD Pipeline with Docker",
+      "avatarUrl": "https://yt3.ggpht.com/kXyR8Aa32KXnZWVdkAFUYK5utM752kSJPHGtYiJ4ev6BmdFHi-dl1EFbI3TogmHBjszwc7m2=s88-c-k-c0x00ffffff-no-rj",
+      "channelName": "TechWorld with Nana",
+      "channelUrl": "https://www.youtube.com/@TechWorldwithNana",
       "iconType":"youtube",
-      "duration": "06:55",
+      "duration": "32:30",
       "descriptionCheckList": [
-        {"description": "Fluxo de branch, realease, hotfix com git"}
-      ]
-    }
-    ,{
-      "id": "xSv_m3KhUO8",
-      "type":"video",
-      "title": "Integração e Implantação Contínua",
-      "avatarUrl": "https://yt3.ggpht.com/a/AATXAJxu3VyUbJ153nt075pz5F5gXPiE1kFRchGQjTqh=s68-c-k-c0x00ffffff-no-rj",
-      "channelName": "GitHub Training & Guides",
-      "channelUrl": "https://www.youtube.com/channel/UCP7RrmoueENv9TZts3HXXtw",
-      "iconType":"youtube",
-      "duration": "06:00",
-      "descriptionCheckList": [
-        {"description": "Entendendo como funciona o fluxo de CI/CD"}        
+        {"description": "O que é Github Actions"},
+        {"description": "Que problema o Github Actions resolve"},
+        {"description": "Os benefícios de se usar o Github Actions"},
+        {"description": "Hands-on Demo"}
       ]
     }
     ,{
